@@ -128,6 +128,10 @@
         /*margin-left: $spacing-unit;
         margin-right: $spacing-unit;*/
         text-overflow: clip;
+
+        @include media-query($on-palm) {
+            visibility: hidden;
+        }
     }
 }
 
