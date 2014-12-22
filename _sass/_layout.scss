@@ -27,6 +27,15 @@
     line-height: 56px;
     margin-right: 300px;
 
+    .nav-img {
+
+        &,
+        &:hover {
+            text-decoration: none;
+            border: 0;
+        }
+    }
+
 
     .menu-icon {
         display: none;
@@ -297,15 +306,6 @@
 .rss-subscribe {
     color: $grey-color-dark;
 
-}
-
-.no-change {
-
-    &,
-    &:hover {
-        text-decoration: none;
-        border: 0;
-    }
 }
 
 .social_share {
