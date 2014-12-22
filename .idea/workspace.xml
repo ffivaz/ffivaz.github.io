@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18341b6a-23b3-408c-aaa0-f2cef8f586a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/interpellations.json" afterPath="$PROJECT_DIR$/_data/interpellations.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/motions.json" afterPath="$PROJECT_DIR$/_data/motions.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/plois.json" afterPath="$PROJECT_DIR$/_data/plois.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/props.html" afterPath="$PROJECT_DIR$/props.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/questions.json" afterPath="$PROJECT_DIR$/_data/questions.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/recommandations.json" afterPath="$PROJECT_DIR$/_data/recommandations.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ffivaz_site.iws" />
@@ -104,8 +99,8 @@
       <file leaf-file-name="props.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/props.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2982456" vertical-offset="0" max-vertical-offset="1254">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.1491228" vertical-offset="0" max-vertical-offset="1254">
+              <caret line="11" column="141" selection-start-line="11" selection-start-column="141" selection-end-line="11" selection-end-column="141" />
               <folding />
             </state>
           </provider>
@@ -343,7 +338,13 @@
       <option name="project" value="LOCAL" />
       <updated>1419266812278</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changing databases and code for documents (motions, etc.)">
+      <created>1419267230845</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1419267230845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -391,7 +392,8 @@
     <MESSAGE value="false link in budget 2015" />
     <MESSAGE value="budget 2014 html to markdown" />
     <MESSAGE value="Adding documents (motions, etc.)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding documents (motions, etc.)" />
+    <MESSAGE value="Changing databases and code for documents (motions, etc.)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing databases and code for documents (motions, etc.)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -770,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/props.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2982456" vertical-offset="0" max-vertical-offset="1254">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.1491228" vertical-offset="0" max-vertical-offset="1254">
+          <caret line="11" column="141" selection-start-line="11" selection-start-column="141" selection-end-line="11" selection-end-column="141" />
           <folding />
         </state>
       </provider>
