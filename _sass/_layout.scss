@@ -27,7 +27,8 @@
     float:right;
     margin-top: 50px;
     line-height: 56px;
-    margin-right: 350px;
+    margin-left: $spacing-unit;
+    margin-right: auto;
 
     .menu-icon {
         display: none;
