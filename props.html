@@ -9,17 +9,17 @@ sitemap:
 ---
 
 <h3>Motions et postulats</h3>
-<pre><code>{% for motion in site.data.motions.motions %}{{ motion.id }} {{ motion.title }} [<a href="{{ motion.link }}">{{ motion.id }}</a>]<br>{% endfor %}</code></pre>
+<pre><code>{% for motion in site.data.motions.motions %}{{ motion.id }} {{ motion.title }} [<a href="/files/{{ motion.link }}.pdf">{{ motion.id }}</a>]<br>{% endfor %}</code></pre>
 
 <h3>Questions</h3>
-<pre><code>{% for question in site.data.questions.questions %}{{ question.id }} {{ question.title }} [<a href="{{ question.link }}">{{ question.id }}</a>]<br>{% endfor %}</code></pre>
+<pre><code>{% for question in site.data.questions.questions %}{{ question.id }} {{ question.title }} [<a href="/files/{{ question.link }}.pdf">{{ question.id }}</a>]<br>{% endfor %}</code></pre>
 
 <h3>Interpellations</h3>
-<pre><code>{% for interpellation in site.data.interpellations.interpellations %}{{ interpellation.id }} {{ interpellation.title }} [<a href="{{ interpellation.link }}">{{ interpellation.id }}</a>]<br>{% endfor %}</code></pre>
+<pre><code>{% for interpellation in site.data.interpellations.interpellations %}{{ interpellation.id }} {{ interpellation.title }} [<a href="/files/{{ interpellation.link }}.pdf">{{ interpellation.id }}</a>]<br>{% endfor %}</code></pre>
 
 <h3>Recommandations</h3>
-<pre><code>{% for recommandation in site.data.recommandations.recommandations %}{{ recommandation.id }} {{ recommandation.title }} [<a href="{{ recommandation.link }}">{{ recommandation.id }}</a>]<br>{% endfor %}</code></pre>
+<pre><code>{% for recommandation in site.data.recommandations.recommandations %}{{ recommandation.id }} {{ recommandation.title }} [<a href="/files/{{ recommandation.link }}.pdf">{{ recommandation.id }}</a>]<br>{% endfor %}</code></pre>
 
 <h3>Projets de loi</h3>
-<pre><code>{% for ploi in site.data.plois.plois %}{{ ploi.id }} {{ ploi.title }} [<a href="{{ ploi.link }}">{{ ploi.id }}</a>]<br>{% endfor %}</code></pre>
+<pre><code>{% for ploi in site.data.plois.plois %}{{ ploi.id }} {{ ploi.title }} [<a href="/files/{{ ploi.link }}.pdf">{{ ploi.id }}</a>]<br>{% endfor %}</code></pre>
 
