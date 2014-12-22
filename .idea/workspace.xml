@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18341b6a-23b3-408c-aaa0-f2cef8f586a4" name="Default" comment="budget 2014 html to markdown">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10027.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10103.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10130.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10179.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10186.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10303.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10382.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10393.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/10415.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11115.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11162.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11327.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11328.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11359.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11367.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/11392.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12104.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12125.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12149.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12153.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12309.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12311.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12334.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/12385.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/13116.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/13129.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/13338.pdf" />
+    <list default="true" id="18341b6a-23b3-408c-aaa0-f2cef8f586a4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ffivaz_site.iws" />
@@ -306,7 +279,13 @@
       <option name="project" value="LOCAL" />
       <updated>1419265828532</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="budget 2014 html to markdown">
+      <created>1419266789989</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1419266789989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
