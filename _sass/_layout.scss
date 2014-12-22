@@ -113,20 +113,13 @@
         visibility: visible;
     }
 
-    /*a,
-    a:hover {
-        color: $grey-color-dark;
-        font-weight: 600;
-        font-size: $base-font-size * 0.875;
-        text-transform: uppercase;
-    }*/
-
     .title-text {
+        display: block;
         color: $grey-color-dark;
         font-weight: 400;
         font-size: $base-font-size;
-        /*margin-left: $spacing-unit;
-        margin-right: $spacing-unit;*/
+        margin-left: $spacing-unit;
+        margin-right: $spacing-unit;
         text-overflow: clip;
 
         @include media-query($on-palm) {
@@ -253,7 +246,7 @@
     color: $grey-color-dark;
 
     @include media-query($on-laptop) {
-        font-size: $title-font-size * 0.75;
+        font-size: $title-font-size * $shrinker;
     }
 }
 
@@ -275,7 +268,7 @@
         font-size: $summary-font-size;
 
         @include media-query($on-laptop) {
-            font-size: $summary-font-size * 0.75;
+            font-size: $summary-font-size * $shrinker;
         }
     }
 }
