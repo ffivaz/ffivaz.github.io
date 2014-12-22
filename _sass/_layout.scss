@@ -237,14 +237,14 @@
 }
 
 .post-title {
-    font-size: 48px;
+    font-size: $title-font-size;
     letter-spacing: -1px;
     line-height: 1;
     font-weight: 600;
     color: $grey-color-dark;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: $title-font-size * 0.75;
     }
 }
 
@@ -258,27 +258,15 @@
     margin-bottom: $spacing-unit;
     width: 70%;
 
+    @include media-query($on-palm) {
+        width: 100%;
+    }
+
     h2 {
-        font-size: 28px;
+        font-size: $summary-font-size;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 24px;
-
-        @include media-query($on-laptop) {
-            font-size: 20px;
-        }
-    }
-
-    h4 {
-        font-size: 18px;
-
-        @include media-query($on-laptop) {
-            font-size: 16px;
+            font-size: $summary-font-size * 0.75;
         }
     }
 }
