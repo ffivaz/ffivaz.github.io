@@ -24,7 +24,7 @@
 }
 
 .site-nav {
-    float:right;
+    float: right;
     margin-top: 50px;
     line-height: 56px;
     margin-right: 300px;
@@ -36,7 +36,7 @@
 
     .page-link {
         color: $grey-color-dark;
-        font-size: 22px;
+        font-size: $summary-font-size;
         font-weight: 600;
         text-transform: uppercase;
         line-height: $base-line-height;
@@ -114,7 +114,7 @@
     a:hover {
         color: $grey-color-dark;
         font-weight: 600;
-            font-size: 16px;
+        font-size: $base-font-size * 0.875;
         text-transform: uppercase;
     }
 
@@ -135,7 +135,7 @@
 }
 
 .footer-heading {
-    font-size: 14px;
+    font-size: $small-font-size;
     margin-bottom: $spacing-unit / 2;
     color: $grey-color-dark;
 }
