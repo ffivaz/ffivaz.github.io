@@ -113,20 +113,20 @@
         visibility: visible;
     }
 
-    a,
+    /*a,
     a:hover {
         color: $grey-color-dark;
         font-weight: 600;
         font-size: $base-font-size * 0.875;
         text-transform: uppercase;
-    }
+    }*/
 
     .title-text {
         color: $grey-color-dark;
         font-weight: 400;
-        font-size: 16px;
-        margin-left: $spacing-unit;
-        margin-right: $spacing-unit;
+        font-size: $base-font-size;
+        /*margin-left: $spacing-unit;
+        margin-right: $spacing-unit;*/
         text-overflow: clip;
     }
 }
