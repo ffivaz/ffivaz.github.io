@@ -27,7 +27,7 @@ $title-font-size: 48px;
 $small-font-size:  $base-font-size * 0.875;
 
 // Width of the content area
-$content-width:    1024px;
+$content-width:    1024px - 2*$spacing-unit;
 
 $on-palm:          600px;
 $on-laptop:        800px;
