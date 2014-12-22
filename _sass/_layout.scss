@@ -242,7 +242,6 @@
     line-height: 1;
     font-weight: 600;
     color: $grey-color-dark;
-    width: 70%;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -253,7 +252,6 @@
     font-size: 22px;
     color: $grey-color-middle;
     font-weight: 500;
-    width: 70%;
 }
 
 .post-content {

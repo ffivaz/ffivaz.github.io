@@ -33,9 +33,10 @@ layout: default
               {% when '10' %}octobre
               {% when '11' %}novembre
               {% when '12' %}décembre
-       http://ffivaz.github.io/     {% endcase %} {{ page.date | date: '%Y' }}</span>
+       {% endcase %} {{ page.date | date: '%Y' }}</span>
     <p class="post-summary">{{ page.summary }}</p>
     <!--<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>-->
+
     {{ content }}
 
     <p style="float: right;">
