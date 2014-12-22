@@ -126,13 +126,11 @@
     }
 
     .title-text {
-        display: block;
         color: $grey-color-dark;
         font-weight: 400;
         font-size: $base-font-size;
         margin-left: $spacing-unit;
         margin-right: $spacing-unit;
-        text-overflow: clip;
 
         @include media-query($on-palm) {
             visibility: hidden;
