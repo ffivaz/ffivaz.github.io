@@ -127,8 +127,7 @@
         font-size: 16px;
         margin-left: $spacing-unit;
         margin-right: $spacing-unit;
-        overflow: hidden;
-        text-overflow: ellipsis;
+        text-overflow: clip;
     }
 }
 
