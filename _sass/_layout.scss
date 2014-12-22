@@ -286,6 +286,10 @@
     margin-top: 4*$spacing-unit;
     width: 250px;
 
+    @include media-query($on-palm) {
+        visibility: hidden;
+    }
+
     li {
         list-style: none;
         margin-left: 0;
