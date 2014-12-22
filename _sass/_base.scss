@@ -159,7 +159,7 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: $spacing-unit;
     margin-left: $spacing-unit;
-    margin-top: 2 * $spacing-unit;
+    margin-top: 3 * $spacing-unit;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
