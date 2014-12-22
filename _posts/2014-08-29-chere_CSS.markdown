@@ -1,0 +1,25 @@
+---
+layout: post
+title: Chère CSS
+summary: En ces temps de campagne pour la caisse unique, il était temps de résilier mes assurances complémentaires pour améliorer mon budget et ne plus financer cette mafia d'assureurs-maladie qui nous vole et nous trompe.
+sitemap:
+  lastmod: 2014-08-29
+  priority: 0.7
+  changefreq: 'never'
+---
+
+Chère CSS,
+
+Par la présente, je vous demande de bien vouloir résilier l’ensemble de mes assurances complémentaires à la prochaine échéance au 31 décembre 2014. Vos services me coûtent chers et ne me servent à rien. De plus, vous menez ouvertement une politique qui va à l’encontre de mes intérêts en tant que client et en tant qu’assuré. Je vous donne quelques exemples :
+
+* Avec vos petits copains sous la coupole fédérale, vous avez transféré des centaines de millions de francs de votre porte-monnaie vers celui du contribuable en ouvrant les frontières cantonales. Comprenez-moi bien, je ne suis pas totalement opposé à la concurrence, mais je ne souhaite plus bénéficier d’un service – l’assurance d’hospitalisation – qui ne sert plus à grand-chose dans la nouvelle LAMal. Surtout que vous n’avez pas baissé mes primes, mais augmenté vos bénéfices.
+
+* En juin, vous m’avez convié avec d’autres assurés à une séance de propagande mensongère sur la caisse publique. Je ne paie pas 480 francs de primes chaque année pour que vous m’invitiez à venir écouter vos soi-disant « experts », je vous verse des primes pour que vous m’offriez un service d’assurance. Je ne vous verse pas des primes pour que vous fassiez de la publicité « En tout point personnelle », mais pour que vous remboursiez mes frais.
+
+* Ce que vous ne faites d’ailleurs pas vraiment. La hauteur des franchises de l’assurance complémentaires sur les médecines alternatives est par exemple telle que je n’en profite simplement pas. Je mettrai dorénavant de côté l’argent que je vous verse, et je ferai des économies pour mes traitements futurs. Je n’aurai plus besoin d’aller quatre fois chez l’ostéopathe pour que vous me remboursiez ma dernière séance.
+
+Je ne vous remercie donc pas pour votre service qui, contrairement à votre slogan, est dans la moyenne de ce que font les autres : mauvais. Je vous prie tout de même de me communiquer par écrit la résiliation définitive de l’ensemble de mes contrats d’assurance.
+
+Je vous salue.
+
+PS : n'oubliez pas de lire [l'excellent argumentaire de la FRC](http://www.frc.ch/articles/un-debat-escamote-pour-les-assures/) !

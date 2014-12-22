@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<div class="site-nav-past-main" id="upper_nav_bar">
+  <img src="/images/logo_50px.png">
+  <span class="title-text">{{ page.title }}</span>
+  <a href="/" class="no-change" title="Retour à la page d'accueil">
+    <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 22 19" fill="#828282"><path d="M12 3s-6.186 5.34-9.643 8.232c-.203.184-.357.452-.357.768 0 .553.447 1 1 1h2v7c0 .553.447 1 1 1h3c.553 0 1-.448 1-1v-4h4v4c0 .552.447 1 1 1h3c.553 0 1-.447 1-1v-7h2c.553 0 1-.447 1-1 0-.316-.154-.584-.383-.768-3.433-2.892-9.617-8.232-9.617-8.232z"/></svg>
+  </a>
+  <a href="#top" class="no-change" title="Retour en haut de la page">
+    <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 22 19" fill="#828282"><path d="M12 3.172l-6.414 6.414c-.781.781-.781 2.047 0 2.828s2.047.781 2.828 0l1.586-1.586v7.242c0 1.104.895 2 2 2 1.104 0 2-.896 2-2v-7.242l1.586 1.586c.391.391.902.586 1.414.586s1.023-.195 1.414-.586c.781-.781.781-2.047 0-2.828l-6.414-6.414z"/></svg>
+  </a>
+</div>
+
+<div class="post">
+
+  <header class="post-header">
+    <a id="mtext"></a>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-meta">{{ page.date | date: "%-d " }}{% assign m = page.date | date: "%-m" %}
+            {% case m %}
+              {% when '1' %}janvier
+              {% when '2' %}février
+              {% when '3' %}mars
+              {% when '4' %}avril
+              {% when '5' %}mai
+              {% when '6' %}juin
+              {% when '7' %}juillet
+              {% when '8' %}août
+              {% when '9' %}septembre
+              {% when '10' %}octobre
+              {% when '11' %}novembre
+              {% when '12' %}décembre
+            {% endcase %} {{ page.date | date: '%Y' }}</span>
+    <p class="post-summary">{{ page.summary }}</p>
+    <!--<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>-->
+  </header>
+  <article class="post-content">
+
+    {{ content }}
+
+    <p style="float: right;">
+      <a href="/" class="no-change" title="Retour à la page d'accueil">
+        <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 22 19" fill="#828282"><path d="M12 3s-6.186 5.34-9.643 8.232c-.203.184-.357.452-.357.768 0 .553.447 1 1 1h2v7c0 .553.447 1 1 1h3c.553 0 1-.448 1-1v-4h4v4c0 .552.447 1 1 1h3c.553 0 1-.447 1-1v-7h2c.553 0 1-.447 1-1 0-.316-.154-.584-.383-.768-3.433-2.892-9.617-8.232-9.617-8.232z"/></svg>
+      </a>
+      <a href="#top" class="no-change" title="Retour en haut de la page">
+        <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 22 19" fill="#828282"><path d="M12 3.172l-6.414 6.414c-.781.781-.781 2.047 0 2.828s2.047.781 2.828 0l1.586-1.586v7.242c0 1.104.895 2 2 2 1.104 0 2-.896 2-2v-7.242l1.586 1.586c.391.391.902.586 1.414.586s1.023-.195 1.414-.586c.781-.781.781-2.047 0-2.828l-6.414-6.414z"/></svg>
+      </a>
+    </p>
+
+    <div class="social_share">
+      <p>
+        <svg viewBox="0 0 33 33" width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#828282"><path d="M 32,6.076c-1.177,0.522-2.443,0.875-3.771,1.034c 1.355-0.813, 2.396-2.099, 2.887-3.632 c-1.269,0.752-2.674,1.299-4.169,1.593c-1.198-1.276-2.904-2.073-4.792-2.073c-3.626,0-6.565,2.939-6.565,6.565 c0,0.515, 0.058,1.016, 0.17,1.496c-5.456-0.274-10.294-2.888-13.532-6.86c-0.565,0.97-0.889,2.097-0.889,3.301 c0,2.278, 1.159,4.287, 2.921,5.465c-1.076-0.034-2.088-0.329-2.974-0.821c-0.001,0.027-0.001,0.055-0.001,0.083 c0,3.181, 2.263,5.834, 5.266,6.438c-0.551,0.15-1.131,0.23-1.73,0.23c-0.423,0-0.834-0.041-1.235-0.118 c 0.836,2.608, 3.26,4.506, 6.133,4.559c-2.247,1.761-5.078,2.81-8.154,2.81c-0.53,0-1.052-0.031-1.566-0.092 c 2.905,1.863, 6.356,2.95, 10.064,2.95c 12.076,0, 18.679-10.004, 18.679-18.68c0-0.285-0.006-0.568-0.019-0.849 C 30.007,8.548, 31.12,7.392, 32,6.076z"></path></svg>
+        <a href="https://twitter.com/home?status=%20{{ site.url }}{{ page.url }}%20via%20@ffivaz">Partager sur Twitter</a>
+        <svg viewBox="0 0 33 33" width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#828282"><path d="M 17.996,32L 12,32 L 12,16 l-4,0 l0-5.514 l 4-0.002l-0.006-3.248C 11.993,2.737, 13.213,0, 18.512,0l 4.412,0 l0,5.515 l-2.757,0 c-2.063,0-2.163,0.77-2.163,2.209l-0.008,2.76l 4.959,0 l-0.585,5.514L 18,16L 17.996,32z"></path></svg>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}">Partager sur Facebook</a>
+      </p>
+    </div>
+
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'ffivaz'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+    <div class="post-nav">
+      {% if page.previous.url %}
+      <a style="text-align: left;" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      {% endif %}
+      {% if page.next.url %}
+      <a style="float: right;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      {% endif %}
+    </div>
+
+  </article>
+
+</div>

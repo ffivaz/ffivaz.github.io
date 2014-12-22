@@ -1,0 +1,42 @@
+---
+layout: post
+summary: Le groupe PVS (Les Verts, le POP et SolidaritéS) a refusé le budget 2015 de l'Etat de Neuchâtel, estimant qu'il n'a pas obtenu de garanties sur la volonté du gouvernement de dialoguer avec la fonction publique, qu'il continue à faire des économies cachées et des coupes répétées dans le dernier filet social.
+title: Budget 2015, c'est non pour PVS
+sitemap:
+  lastmod: 2014-12-02
+  priority: 0.7
+  changefreq: 'never'
+twitter: Le groupe PVS a refusé le budget 2015. Les raisons! #GCNE
+---
+
+En préambule, que le Conseil d’Etat et l’ensemble des services soit remercié ici pour le travail effectué en cours d’année et surtout pour le travail à venir dans le cadre de l’année 2015.
+
+Le budget 2015 ne convient pas au groupe PVS, il reprend les ingrédients qui nous ont déjà fait refuser le budget 2014. Plusieurs problèmes créent un malaise: le traitement réservé à la fonction publique, les économies cachées liées à la recapitalisation de la caisse de pension, l’opacité au niveau de la fiscalité et les coupes répétées dans le dernier filet social, avec de notre point de vue un équilibre des sacrifices qui n’a rien d’équilibré.
+
+Pour la fonction publique, nous pouvons répéter ce que [nous avons déjà dit en décembre 2013](budget2013.html): les mesures salariales sont inacceptables en dehors d’un accord avec le personnel et les associations du personnel. Si le Conseil d’Etat souhaite réussir une réforme qui permettent de contenir l’augmentation de la masse salariale, il devra négocier et accepter des compromis. Sa position de fermeté et son jusqu’au boutisme actuel sont dans ce sens extrêmement maladroits. Nous avons à plusieurs reprises émis le vœux que la Loi sur le statut de la fonction publique soit revue – puisqu’elle n’a pas souvent été appliquée depuis sont entrée en vigueur – mais nous souhaitons que cette révision se fasse dans un esprit de concertation. Le gouvernement continue de mettre à mal le partenariat social en 2015, et ceci, nous ne pouvons l’accepter.
+
+Les problèmes salariaux ne sont d’ailleurs pas seuls à créer la situation de tensions actuelles : les conditions de travail se dégradent depuis longtemps, comme le montre par exemple l’augmentation des dépenses de la caisse de remplacement du personnel enseignant. Nous ne pouvons qu’exhorter le Conseil d’État à prendre en compte ces signaux, pas seulement dans le cadre d’un rapport qui proposera des pistes comme il l’a proposé, mais aussi dans le cadre de l’ensemble des rapports qu’il a avec la fonction publique. 2000 personnes vous ont demandé ce dialogue mardi passé, ils méritent d’être entendus.
+
+Il y a une année, nous saluions la transparence dont faisait preuve le Conseil d’État pour présenter son budget. Cette année, laissez-nous exprimer un certain malaise et une certaine frustration dans ce domaine. Dans le cadre des réformes qu’il entend entreprendre, dans le cadre de ses relations avec le Grand Conseil ou avec les communes, le gouvernement privilégie de plus en plus souvent l’opacité. C’est le cas aussi pour la fonction publique qui a été mis devant le fait accompli, dont les représentants (dans le cas des enseignants) réclament depuis des mois les bases de calcul pour les salaires 2015, sans succès. C’est le cas également pour la fiscalité.
+
+La Loi sur les contributions directes imposait au Conseil d’État de livrer au Grand Conseil un rapport sur la réforme de l’imposition des entreprises au plus tard avec les comptes 2013. Le gouvernement avait en 2011 signé un contrat avec le législatif pour permettre à cette réforme de voir le jour. Huit mois plus tard, nous attendons toujours. Permettez-nous d’être fâché que nos meilleures informations viennent aujourd’hui d’un séminaire que le gouvernement a donné pour PricewaterhouseCoopers. Dans le rapport à l’appui du budget, le Conseil d’État indique que la réforme sur les personnes morales atteint sans doute un « plafond ». C’est la raison pour laquelle l’unanimité de la commission fiscalité de l’époque avait accepté la disposition transitoire. Nous poursuivons aujourd’hui une réforme sans savoir ce qu’elle va nous coûter, sans connaître les raisons du « succès » relatif des premières années. Avec l’impression que nous baissons nos prestations pour financer nos baisses d’impôts. Le Conseil d’État avait « oublié » un rapport exigé par une loi en février. Huit mois plus tard, notre groupe a plutôt l’impression que le gouvernement souhaite laisser les députés dans l’ignorance. En février surtout, nous n’avions fait que la moitié du chemin de la réforme. Une année plus tard lorsque nous aurons enfin ce rapport, nous en auront fait les trois-quarts !
+
+Les mesures d’austérité prises en 2014 se renforceront encore en 2015 et la pression en devrait pas faiblir à l’avenir. Selon le plan financier et des tâches, les domaines dont les charges sont les plus dynamiques – et se faisant sur lesquelles les économies devront porter – sont celles des personnes les plus fragiles :
+
+Les aînés, mais nous savons que la population continuera à vieillir plus vieille encore.
+
+La santé, mais nous savons que quoique nous fassions, les coûts de la santé continueront d’augmenter, parce que la technique évolue, parce que comme dit précédemment, nous vivons de plus en plus longtemps.
+
+Les bénéficiaires de l’aide sociale, mais nous savons que notre système économique laisse une partie de la population au bord du chemin. La Suisse est peut-être championne du monde la productivité, mais cette situation de premier de classe a un coût en termes sociaux.
+
+La plupart de ces domaines relèvent de prestations publiques que le groupe PVS estime indispensables à un développement équilibré de notre société. Ce type de processus risque à terme d’accroître les disparités économiques et d’augmenter les tensions sociales. Nous ne pensons pas qu’il soit judicieux de faire porter sur ces personnes la majeure partie des efforts d’économies, en particulier lorsqu’on observe que ces économies servent avant tout à financer des diminutions d’impôts.
+
+Le groupe PVS refusera donc la modification de la Loi sur le financement des EMS. Le groupe est choqué par la baisse de la limite minimale de la dotation pour le personnel socio-hôtelier. La diminution de la dotation est renforcée par les contraintes imposées par le gouvernement dans le cadre de la CCT Santé 21 et les coûts élevés de recapitalisation de la caisse de pension qui mettent sous pression les institutions. Ce sont des métiers difficiles, avec des risques de maltraitance dans les situations d’insuffisance de personnel; l’Etat ne peut pas chaque année demander de nouvelles économies dans ce secteur. Le groupe PVS les refusera.
+
+Le groupe PVS souhaite encore rappeler que les coûts de recapitalisation sont en partie dus à une volonté d’aller plus vite et plus loin que ce qu’impose le droit fédéral. Ceci coûte très cher à l’Etat mais également aux institutions liées à la caisse. Ces coûts ne sont presque jamais compensés par une augmentation des subventions : ils représentent donc des économies cachées qui conduisent à une baisse généralisée des prestations, parce qu’elles sont cachées mais bien réelles.
+
+Finalement, dans les points positifs: le groupe PVS salue la volonté du Conseil d’Etat de demander des efforts – minimes certes, mais toute de même – à certains secteurs comme l’immobilier qui a largement profité de la croissance ces dernières années. Reste une interrogation, si l’objectif est «d’équilibrer les sacrifices», elle nous laisse un goût amer quand on sait que 10 à 15 % de la hausse sera payée par la caisse de pension. Autant dire que ce sont dans un sens les mêmes qui paient deux fois ! Et selon ce que nous vous avons dit plus tôt: l’État ne s’épargnera une réflexion sur ses revenus, nous en avons la conviction.
+
+Finalement, nous saluons également la volonté du Conseil d’Etat de permettre au canton de continuer à investir en appliquant déjà les nouvelles règles de la Loi sur les finances de l’Etat et des communes (ou, en l’occurrence en proposant une mesure statistique pour se donner plus de possibilités d’investir l’entier de l’enveloppe que le Grand Conseil lui octroie).
+
+En conclusion, le groupe PVS refusera ce budget.

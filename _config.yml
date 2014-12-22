@@ -1,0 +1,16 @@
+# Site settings
+title: Fabien Fivaz
+email: fabien.fivaz@unine.ch
+description: > # this means to ignore newlines until "baseurl:"
+  Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois.
+  Candidat (à la candidature) au Conseil national et au Conseil des Etats. Président de StopOGM.
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.fabienfivaz.ch" # the base hostname & protocol for your site
+twitter_username: ffivaz
+github_username:  ffivaz
+
+paginate: 5
+paginate_path: "/page:num/"
+
+# Build settings
+markdown: kramdown
