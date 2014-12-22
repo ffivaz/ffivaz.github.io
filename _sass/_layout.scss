@@ -109,6 +109,10 @@
     border-bottom: 2px solid $brand-color;
     padding-left: $spacing-unit;
 
+    @include media-query($on-palm) {
+        visibility: visible;
+    }
+
     a,
     a:hover {
         color: $grey-color-dark;
