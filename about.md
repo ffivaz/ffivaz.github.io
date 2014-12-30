@@ -17,4 +17,4 @@ Je suis député au Grand Conseil neuchâtelois depuis 2009. Vice-président de 
 
 Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.ton-sur-ton.ch) – un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds, et l’[association Surface Solidaire](http://surfacesolidaire.ch), active dans la création de coopératives solaires.
 
-Consulter mon profil sur [linkedin](https://lnkd.in/d9499AE), le [registre des liens d'intérêts](http://www.ne.ch/autorites/GC) du Grand Conseil. 
+Consulter mon profil sur [linkedin](https://lnkd.in/d9499AE), le [registre des liens d'intérêts](http://www.ne.ch/autorites/GC/composition/Pages/Liste-liens-interets.aspx) du Grand Conseil. 
