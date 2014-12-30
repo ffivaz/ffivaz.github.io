@@ -11,7 +11,7 @@ sitemap:
     {% for post in paginator.posts %}
       <li>
         <h1 class="post-title">{{ post.title }}</h1>
-        <span class="post-meta">{{ post.date | date: "%-d " }}{% assign m = post.date | date: "%-m" %}
+        <span class="post-meta">@ {{ post.date | date: "%-d " }}{% assign m = post.date | date: "%-m" %}
             {% case m %}
               {% when '1' %}janvier
               {% when '2' %}février
