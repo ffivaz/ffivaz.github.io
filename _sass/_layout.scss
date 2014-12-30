@@ -41,7 +41,7 @@
     .page-link {
         color: $grey-color-dark;
         font-size: $summary-font-size;
-        font-weight: 600;
+        font-weight: $title-font-weight;
         text-transform: uppercase;
         line-height: $base-line-height;
 
@@ -127,7 +127,7 @@
 
     .title-text {
         color: $grey-color-dark;
-        font-weight: 400;
+        font-weight: $base-font-weight;
         font-size: $base-font-size;
         margin-left: $spacing-unit;
         margin-right: $spacing-unit;
@@ -231,7 +231,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color-light;
-    font-weight: 600;
+    font-weight: $title-font-weight;
 }
 
 .post-link {
@@ -252,7 +252,7 @@
     font-size: $title-font-size;
     letter-spacing: -1px;
     line-height: 1;
-    font-weight: 600;
+    font-weight: $title-font-weight;
     color: $grey-color-dark;
 
     @include media-query($on-laptop) {
@@ -263,7 +263,7 @@
 .post-summary {
     font-size: 22px;
     color: $grey-color-middle;
-    font-weight: 500;
+    font-weight: $title-font-weight;
 }
 
 .post-content {
