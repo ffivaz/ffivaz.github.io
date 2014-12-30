@@ -32,7 +32,7 @@ $small-font-size:  $base-font-size * 0.875;
 $shrinker : 0.75;
 
 // Width of the content area
-$content-width:    1024px - 2*$spacing-unit;
+$content-width:    1024px - 2 * $spacing-unit;
 
 $on-palm:          600px;
 $on-laptop:        800px;
