@@ -127,7 +127,7 @@
 
     .title-text {
         color: $grey-color-dark;
-        font-weight: $base-font-weight;
+        font-weight: $title-font-weight;
         font-size: $base-font-size;
         margin-left: $spacing-unit;
         margin-right: $spacing-unit;
@@ -263,7 +263,7 @@
 .post-summary {
     font-size: 22px;
     color: $grey-color-middle;
-    font-weight: $title-font-weight;
+    font-weight: $base-font-weight;
 }
 
 .post-content {
