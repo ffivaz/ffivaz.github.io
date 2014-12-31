@@ -2,7 +2,7 @@
 layout: post
 summary: Bonne année! L'année 2014 a été riche en projets et en rencontres. Voici quelques points que j'ai retenu.  
 title: L'année 2014 en quelques points marquants
-published:false
+published: false
 sitemap:
   lastmod: 2014-12-31
   priority: 0.7
