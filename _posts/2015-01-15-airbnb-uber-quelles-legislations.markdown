@@ -30,10 +30,11 @@ les habitudes, ce qui est source de conflits importants avec les taxis établis.
 
 A Lausanne, la Ville et les communes alentours 
 
-Interpellé, le Conseil Fédéral a estimé que les cantons devaient seuls règler les problèmes de cohabitation entre 
+Interpellé, le Conseil Fédéral a estimé que les [règles actuelles étaient suffisantes] [5] et que les cantons devaient seuls règler les problèmes de cohabitation entre 
 les taxis établis et les nouveaux arrivants connectés via Uber.
 
 [1]: http://clesnes.blog.lemonde.fr/2013/10/22/jaron-lanier-linternet-ruine-la-classe-moyenne/ "Interview de Jaron Lanier dans Le Monde, 22 oct. 2013"
 [2]: https://fr.airbnb.ch/ "airbnb, plateforme de location de logements"
 [3]: https://www.uber.com/ "Uber, plateforme de location de taxis/limousines"
 [4]: http://www.blorange.com/nantermod/airbnb-eviter-l-interdiction-et-assouplir-les-regles/?lang=fr "AirBnb & Co : éviter l’interdiction et assouplir les règles !"
+[5]: http://www.parlament.ch/f/suche/pages/geschaefte.aspx?gesch_id=20143939 "14.3939 - Interpellation - Taxis et voitures de tourisme avec chauffeur et covoiturage payant. Un combat à armes égales?"
