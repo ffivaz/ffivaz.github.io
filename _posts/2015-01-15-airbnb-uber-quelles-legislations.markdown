@@ -30,7 +30,13 @@ les habitudes, ce qui est source de conflits importants avec les taxis établis.
 
 A Lausanne, la Ville et les communes alentours 
 
-Interpellé, le Conseil Fédéral a estimé que les [règles actuelles étaient suffisantes] [5] et que les cantons devaient [règler seuls] [6] les problèmes de cohabitation entre les taxis établis et les nouveaux arrivants connectés via Uber.
+Interpellé, le Conseil Fédéral a estimé que les [règles actuelles étaient suffisantes] [5] et que les cantons 
+devaient [règler seuls] [6] les problèmes de cohabitation entre les taxis établis et les nouveaux arrivants connectés 
+via Uber.
+
+## airbnb
+
+airbnb, c'est la possibilité de louer en ligne des logements, collocations, etc. 
 
 [1]: http://clesnes.blog.lemonde.fr/2013/10/22/jaron-lanier-linternet-ruine-la-classe-moyenne/ "Interview de Jaron Lanier dans Le Monde, 22 oct. 2013"
 [2]: https://fr.airbnb.ch/ "airbnb, plateforme de location de logements"
