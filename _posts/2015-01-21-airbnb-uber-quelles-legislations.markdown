@@ -72,6 +72,8 @@ Une fois de plus, loin de moi de simplement critiquer la nouveauté. J'estime to
 s'adapter au changement pour éviter les situations de concurrences déloyales, pour que chaque fournisseur de service soit logé 
 à la même enseigne. C'est pour cette raisons que j'ai déposé ces deux interpellations.
 
+Liens vers les interpellations [airbnb] [/files/15.107.pdf], [Uber] [/files/15.106.pdf].
+
 [2]: https://fr.airbnb.ch/ "airbnb, plateforme de location de logements"
 [3]: https://www.uber.com/ "Uber, plateforme de location de taxis/limousines"
 [4]: http://www.blorange.com/nantermod/airbnb-eviter-l-interdiction-et-assouplir-les-regles/?lang=fr "AirBnb & Co : éviter l’interdiction et assouplir les règles !"
