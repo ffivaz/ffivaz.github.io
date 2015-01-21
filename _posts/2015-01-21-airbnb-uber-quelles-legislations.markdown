@@ -76,5 +76,5 @@ s'adapter au changement pour éviter les situations de concurrences déloyales, 
 [3]: https://www.uber.com/ "Uber, plateforme de location de taxis/limousines"
 [4]: http://www.blorange.com/nantermod/airbnb-eviter-l-interdiction-et-assouplir-les-regles/?lang=fr "AirBnb & Co : éviter l’interdiction et assouplir les règles !"
 [5]: http://www.parlament.ch/f/suche/pages/geschaefte.aspx?gesch_id=20143939 "14.3939 - Interpellation - Taxis et voitures de tourisme avec chauffeur et covoiturage payant. Un combat à armes égales?"
-[6] http://www.tdg.ch/geneve/actu-genevoise/Geneve-devra-arbitrer-seul-la-guerre-entre-les-taxis-et-Uber/story/13799942 "TDG - Genève devra arbitrer seul la guerre entre les taxis et Uber"
+[6]: http://www.tdg.ch/geneve/actu-genevoise/Geneve-devra-arbitrer-seul-la-guerre-entre-les-taxis-et-Uber/story/13799942 "TDG - Genève devra arbitrer seul la guerre entre les taxis et Uber"
 
