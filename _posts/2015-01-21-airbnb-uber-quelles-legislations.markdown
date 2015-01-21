@@ -6,7 +6,7 @@ sitemap:
   lastmod: 2015-01-21
   priority: 0.7
   changefreq: 'never'
-twitter: 
+twitter: Airbnb, Uber, quelles législations
 ---
 
 [airbnb] [2] par exemple permet à chacune et chacun de mettre à disposition à la nuitée, par semaine ou au mois un appartement, 
