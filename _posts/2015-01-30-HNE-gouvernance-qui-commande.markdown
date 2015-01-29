@@ -22,7 +22,7 @@ présenter un budget, qu'il soit refusé par le Conseil d'administration (alors 
 s'empressent d'aller vanter à la presse ce coup d'éclat?* Moi pas trop. C'est pourtant ce [qu'il s'est passé] [1] en ce début d'année 
 au sein d'HNE.
 
-Suite à ça, c'est dans une [information brève] que le Conseil d'Etat communique la suspension des travaux de rénovation du site 
+Suite à ça, c'est dans une [information brève] [4] que le Conseil d'Etat communique la suspension des travaux de rénovation du site 
 chaux-de-fonnier. Il ne donne ainsi pas suite à une demande (conformément à la loi) de la direction et du Conseil d'administration de
 pouvoir investir les 35 millions de francs prévus par les options stratégiques. Et si vous pensiez avoir tout lu, et bien 
 non : [ce refus a été salué] [5] par le directeur d'HNE! Vous imaginez, vous, faire une demande et vous réjouir 
