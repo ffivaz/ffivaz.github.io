@@ -2,7 +2,7 @@
 layout: post
 title: Le problème d'HNE, c'est sa gouvernance
 summary: HNE a fondamentalement un problème de gouvernance. Personne ne sait qui commande quoi, qui, comment et pourquoi. Retour sur quelques événements qui laissent penser qu'une réforme s'impose - depuis longtemps.
-twitter: Le #fail de la gouvernance d'HNE
+twitter: Le problème d'HNE, c'est sa gouvernance. 
 ---
 
 Voilà à quoi pourrait ressembler une discussion sur le fonctionnement des hôpitaux. Sans doute autant au café du commerce que dans 
