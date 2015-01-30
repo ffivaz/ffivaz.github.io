@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le problème d'HNE, c'est sa gouvernance
+title: Le problème d'HNE, ce sont ses finances
 summary: Dans la série "HNE a fondamentalement un problème", passons aux finances. Depuis sa création, HNE a toujours eu la tête sous l'eau. Et l'Etat a toujours tout fait pour l'empêcher de souffler.
 twitter: Dans la série "HNE a fondamentalement un problème", passons aux finances.
 sitemap:
