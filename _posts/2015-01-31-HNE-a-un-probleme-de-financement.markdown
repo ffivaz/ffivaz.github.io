@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le problème d'HNE, ce sont ses finances
+title: L'Etat malmène les finances d'HNE 
 summary: Dans la série "HNE a fondamentalement un problème", passons aux finances. Depuis sa création, HNE a toujours eu la tête sous l'eau. Et l'Etat a toujours tout fait pour l'empêcher de souffler.
 twitter: Dans la série "HNE a fondamentalement un problème", passons aux finances.
 sitemap:
@@ -37,7 +37,7 @@ qu'exigent les options stratégiques. Pour y parvenir, HNE doit - wait for it - 
 Vous avez bien lu: toutes les charges supplémentaires, pourtant souvent imposées par l'Etat ou du moins par sa faute, ont été financées par des économies. Dans ces conditions, il n'est pas difficile de comprendre 
 que l'institution ne puisse pas respecter son mandat et la législation. 
 
-Si HNE est dans la panade, et avec lui l'ensemble du personnel et de la population des Montagnes, c'est aussi parce que l'austérité est passé par là.  
+Si HNE est dans la panade, et avec lui l'ensemble du personnel et de la population des Montagnes, c'est aussi parce que l'austérité est passée par là.  
 
 A noter encore que l'Etat [s'apprête à faire pour HNE] [2] ce qu'il a fait pour les autres entités autonomisée: assainir le bilan et cautionner pour permettre à HNE d'aller à la banque. Mais il ne fait rien gratuitement, 
 HNE devra payer des intérêts sur les cautions. Et je vous ai passé quelques supléments de charges comme les retards d'amortissement liés au nouvelles normes comptables (boum 18 millions), etc.
