@@ -34,6 +34,7 @@
         img {
             @include media-query($on-palm) {
                 visibility: hidden;
+                height: 0px;
             }
         }
     }
