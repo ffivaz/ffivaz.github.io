@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'Etat malmène les finances d'HNE 
-summary: Dans la série "HNE a fondamentalement un problème", passons aux finances. Depuis sa création, HNE a toujours eu la tête sous l'eau. Et l'Etat a toujours tout fait pour l'empêcher de souffler.
+summary: Dans la série HNE a fondamentalement un problème, passons aux finances. Depuis sa création, HNE a toujours eu la tête sous l'eau. Et l'Etat a toujours tout fait pour l'empêcher de souffler.
 twitter: Dans la série HNE a fondamentalement un problème, passons aux finances.
 sitemap:
   lastmod: 2015-01-31
