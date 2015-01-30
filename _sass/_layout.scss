@@ -30,6 +30,7 @@
             text-decoration: none;
             border: 0;
         }
+
         img {
             @include media-query($on-palm) {
                 visibility: hidden;
