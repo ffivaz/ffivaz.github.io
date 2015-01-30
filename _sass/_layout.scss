@@ -31,9 +31,10 @@
             border: 0;
         }
 
-        @include media-query($on-palm) {
-            visibility: hidden;
-            height: 50px;
+        img {
+            @include media-query($on-palm) {
+                height: 20px;
+            }
         }
     }
 
