@@ -33,6 +33,7 @@
 
         @include media-query($on-palm) {
             visibility: hidden;
+            height: 50px;
         }
     }
 
