@@ -10,7 +10,7 @@ sitemap:
 ---
 
 Vous avez tellement aimé le [premier volet de la série] [1] sur la gouvernance que je vous livre, comme promis, le deuxième volet sur les finances de l'hôpital. Comme dans toutes les privatisations 
-de l'Etat de Neuchâtel - qu'on appelle autonomisation parce qu'elles sont en partie été initiées par la gauche - HNE a été créé sans qu'on lui donne les moyens d'exister. Les soins à domicile (NOMAD), 
+de l'Etat de Neuchâtel - qu'on appelle autonomisation parce qu'elles ont en partie été initiées par la gauche - HNE a été créé sans qu'on lui donne les moyens d'exister. Les soins à domicile (NOMAD), 
 le Centre neuchâtelois d'intégration professionnelle (CNIP) ou encore le Centre neuchâtelois de psychiatrie (CNP) sont passés par là: ils ont dû débuter avec des caisses vides, des dettes qui font fuir 
 les banquiers, et l'Etat qui exige des économies structurelles avant même qu'il y ait une structure.
 
