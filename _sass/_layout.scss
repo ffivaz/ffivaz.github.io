@@ -150,7 +150,7 @@
         margin-right: $spacing-unit;
 
         @include media-query($on-palm) {
-            visibility: hidden;
+            font-size: $base-font-size * 0.5;
         }
     }
 }
