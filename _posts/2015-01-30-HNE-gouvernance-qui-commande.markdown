@@ -53,7 +53,9 @@ recapitalisation de la caisse de pension qui coûte des millions, sans compensat
 options stratégiques dont tout le monde savait qu'elles ne seraient pas gratuites, pas étonnant que ce soit difficile de présenter un 
 budget équilibré. Sans compter que l'Etat a autonomisé HNE sans lui donner de marge de manoeuvre financière : ce sont près de 200 
 millions de francs de cautionnements divers et variés qui seront votés prochainement par le Grand Conseil. Des cautions qui ne serviront 
-qu'à assainir le bilan et donner à HNE la possibilité d'emprunter... 
+qu'à assainir le bilan et donner à HNE la possibilité d'emprunter...
+ 
+PPS : c'est chose faite : [l'article sur les problèmes de financement de HNE] [8] est en ligne.  
 
 [1]: http://www.arcinfo.ch/fr/nosdossiers/hopital-neuchatelois/articles/le-conseil-d-administration-refuse-de-valider-le-budget-de-l-hopital-neuchatelois-1849-1396856
 [2]: http://www.arcinfo.ch/fr/regions/canton-de-neuchatel/l-hne-demande-des-mesures-urgentes-pour-faire-face-a-deux-situations-de-crise-556-1407339
@@ -62,3 +64,4 @@ qu'à assainir le bilan et donner à HNE la possibilité d'emprunter...
 [5]: http://www.lematin.ch/suisse/L-Hopital-neuchtelois-traverse-une-crise-severe/story/28224709
 [6]: http://www.ne.ch/autorites/GC/objets/Documents/Rapports/2014/12169_com.pdf
 [7]: http://www.ne.ch/autorites/GC/objets/Documents/Rapports/2015/12169_Avis_CE.pdf
+[8]: http://fabienfivaz.ch/2015/01/31/HNE-a-un-probleme-de-financement.html
