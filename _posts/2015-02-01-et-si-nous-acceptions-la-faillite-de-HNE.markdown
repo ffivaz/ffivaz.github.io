@@ -23,7 +23,12 @@ hospitalière neuchâteloise et de partir sur de meilleures bases. De toute mani
 décidé que les options stratégiques n'étaient pas applicables. 
 
 Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est pas pire que la situation que nous vivons aujourd'hui. 
-Il faut parfois avoir le courage de repartir de zéro. Et il est encore autorisé de rêver.
+Il faut parfois avoir le courage de repartir de zéro. Et il est encore autorisé de rêver. Et pour répondre à Olivier Lebeau :
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="fr"><p><a href="https://twitter.com/ffivaz">@ffivaz</a> <a href="https://twitter.com/dmusy">@dmusy</a> <a href="https://twitter.com/Pebuss">@Pebuss</a> Et donc d&#39;avoir cru une utopie: réveil brutal. Les solutions existent et peuvent même être excellentes pour montagnes</p>&mdash; Olivier Lebeau (@OLebeauNE) <a href="https://twitter.com/OLebeauNE/status/561796450448072704">1 Février 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Voici une solution.
 
 Dans le sillage de la faillite, il faut créer deux entités distinctes, autonomes si nous souhaitons respecter le droit fédéral. Un 
 établissemement hospitalier des Montagnes (et des Vallées), et un du Littoral (et des Vallées). Ce n'est pas du régionalisme stupide, il faut parfois accepter 
