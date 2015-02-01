@@ -19,7 +19,7 @@ hauteur de 200 millions de francs. Sans cette caution, HNE pourrait être dans u
 estime dans le rapport que le refus du cautionnement aurait pour conséquences que "*l'HNE ne [pourrait] ni renouveler ses emprunts, 
 ni réaliser les investissements décidés par le Grand Conseil, faute de pouvoir recourir à l'emprunt*". C'est un aubaine, 
 profitons-en! L'occasion est rêvée de remettre véritablement à plat (comme le souhaite le Conseil d'Etat) la politique 
-hospitalière neuchâteloise et de partir sur de meilleures bases. De toute manière, emprunt ou pas, HNE et le Conseil d'Etat ont dljà
+hospitalière neuchâteloise et de partir sur de meilleures bases. De toute manière, emprunt ou pas, HNE et le Conseil d'Etat ont déjà
 décidé que les options stratégiques n'étaient pas applicables. 
 
 Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est pas pire que la situation que nous vivons aujourd'hui. 
