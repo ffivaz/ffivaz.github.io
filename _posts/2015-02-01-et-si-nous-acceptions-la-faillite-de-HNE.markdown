@@ -25,7 +25,7 @@ décidé que les options stratégiques n'étaient pas applicables.
 Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est pas pire que la situation que nous vivons aujourd'hui. 
 Il faut parfois avoir le courage de repartir de zéro. Pour répondre à Olivier Lebeau :
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="fr"><p><a href="https://twitter.com/ffivaz">@ffivaz</a> <a href="https://twitter.com/dmusy">@dmusy</a> <a href="https://twitter.com/Pebuss">@Pebuss</a> Et donc d&#39;avoir cru une utopie: réveil brutal. Les solutions existent et peuvent même être excellentes pour montagnes</p>&mdash; Olivier Lebeau (@OLebeauNE) <a href="https://twitter.com/OLebeauNE/status/561796450448072704">1 Février 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/ffivaz">@ffivaz</a> <a href="https://twitter.com/dmusy">@dmusy</a> <a href="https://twitter.com/Pebuss">@Pebuss</a> Et donc d&#39;avoir cru une utopie: réveil brutal. Les solutions existent et peuvent même être excellentes pour montagnes</p>&mdash; Olivier Lebeau (@OLebeauNE) <a href="https://twitter.com/OLebeauNE/status/561796450448072704">1 Février 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Voici une solution. Dans le sillage de la faillite, il faut créer deux entités distinctes, autonomes si nous souhaitons respecter le droit fédéral. Un 
