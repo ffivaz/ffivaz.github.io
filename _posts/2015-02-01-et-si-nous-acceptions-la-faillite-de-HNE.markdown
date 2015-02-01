@@ -23,7 +23,6 @@ hospitalière neuchâteloise et de partir sur de meilleures bases. De toute mani
 décidé que les options stratégiques n'étaient pas applicables. 
 
 Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est pas pire que la situation que nous vivons aujourd'hui. 
-Ce n'est pas pure que le délire qui préconise la création d'un grand hôpital cantonal quelque part au milieu du Val-de-Ruz. 
 Il faut parfois avoir le courage de repartir de zéro. Et il est encore autorisé de rêver.
 
 Dans le sillage de la faillite, il faut créer deux entités distinctes, autonomes si nous souhaitons respecter le droit fédéral. Un 
