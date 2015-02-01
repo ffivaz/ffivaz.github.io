@@ -14,10 +14,13 @@ et un [problème financier] [2]. J'irais presque jusqu'à dire que le monde poli
 pour imposer des réformes dans le dos d'une partie de la population. Ce n'est pas une théorie du complot, parce que tout le monde a 
 suivi, moi le premier.
 
-Le Grand Conseil tient entre ses mains le destins de HNE. Il devra en février se prononcer sur un cautionnement de l'institution à 
-hauteur de 200 millions de francs. Sans cette caution, HNE est dans une situation de faillite financière et l'hôpital devra sans doute 
-déposer son bilan. *C'est un aubaine, profitons-en et refusons cette caution*. L'occasion est rêvée de remettre véritablement à plat 
-(comme le souhaite le Conseil d'Etat) la politique hospitalière neuchâteloise et de partir sur de meilleures bases.
+Le Grand Conseil tient entre ses mains le destins de HNE. Il devra en février se prononcer sur un [cautionnement de l'institution] [3] à 
+hauteur de 200 millions de francs. Sans cette caution, HNE pourrait être dans une situation de faillite. Le Conseil d'Etat 
+estime dans le rapport que le refus du cautionnement aurait pour conséquences que "*l'HNE ne [pourrait] ni renouveler ses emprunts, 
+ni réaliser les investissements décidés par le Grand Conseil, faute de pouvoir recourir à l'emprunt*". C'est un aubaine, 
+profitons-en! L'occasion est rêvée de remettre véritablement à plat (comme le souhaite le Conseil d'Etat) la politique 
+hospitalière neuchâteloise et de partir sur de meilleures bases. De toute manière, emprunt ou pas, HNE et le Conseil d'Etat ont dljà
+décidé que les options stratégiques n'étaient pas applicables. 
 
 Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est pas pire que la situation que nous vivons aujourd'hui. 
 Ce n'est pas pure que le délire qui préconise la création d'un grand hôpital cantonal quelque part au milieu du Val-de-Ruz. 
@@ -40,3 +43,4 @@ d'intérêt général, cadre de cofinancement des prestations, etc.)
 
 [1]: http://fabienfivaz.ch/2015/01/30/HNE-gouvernance-qui-commande.html
 [2]: http://fabienfivaz.ch/2015/01/31/HNE-a-un-probleme-de-financement.html
+[3]: http://www.ne.ch/autorites/GC/objets/Documents/Rapports/2014/14032_CE.pdf
