@@ -23,7 +23,7 @@ hospitalière neuchâteloise et de partir sur de meilleures bases. De toute mani
 décidé que les options stratégiques n'étaient pas applicables. 
 
 Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est pas pire que la situation que nous vivons aujourd'hui. 
-Il faut parfois avoir le courage de repartir de zéro. Et il est encore autorisé de rêver. Et pour répondre à Olivier Lebeau :
+Il faut parfois avoir le courage de repartir de zéro. Pour répondre à Olivier Lebeau :
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="fr"><p><a href="https://twitter.com/ffivaz">@ffivaz</a> <a href="https://twitter.com/dmusy">@dmusy</a> <a href="https://twitter.com/Pebuss">@Pebuss</a> Et donc d&#39;avoir cru une utopie: réveil brutal. Les solutions existent et peuvent même être excellentes pour montagnes</p>&mdash; Olivier Lebeau (@OLebeauNE) <a href="https://twitter.com/OLebeauNE/status/561796450448072704">1 Février 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -42,6 +42,8 @@ Courvoisier, pour autant que des règles de concurrence soient respectées (par 
 Le monde politique pourra enfin s'affranchir de son rôle sanitaire pour jouer son véritable rôle, politique et législatif: fixer 
 le cadre réglementaire dans lequel évolueront les hôpitaux neuchâtelois (liste hospitalière, définition des prestations 
 d'intérêt général, cadre de cofinancement des prestations, etc.)
+
+Il est encore autorisé de rêver, non?
 
 [1]: http://fabienfivaz.ch/2015/01/30/HNE-gouvernance-qui-commande.html
 [2]: http://fabienfivaz.ch/2015/01/31/HNE-a-un-probleme-de-financement.html
