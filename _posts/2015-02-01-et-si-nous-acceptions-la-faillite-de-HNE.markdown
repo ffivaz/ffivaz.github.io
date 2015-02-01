@@ -26,7 +26,7 @@ Ceci met tout le monde dans une situation d'incertitudes? Certes, mais ce n'est 
 Il faut parfois avoir le courage de repartir de zéro. Et il est encore autorisé de rêver.
 
 Dans le sillage de la faillite, il faut créer deux entités distinctes, autonomes si nous souhaitons respecter le droit fédéral. Un 
-établissemement hospitalier des Montagnes, et un du Littoral (et des Vallées). Ce n'est pas du régionalisme stupide, il faut parfois accepter 
+établissemement hospitalier des Montagnes (et des Vallées), et un du Littoral (et des Vallées). Ce n'est pas du régionalisme stupide, il faut parfois accepter 
 que des antagonismes ne peuvent pas être dépassés (et qu'ils nous dépassent). Chaque établissement devra se doter des services de 
 base: urgences, maternité et médecine/chirurgie. Et en fonction des médecins sur place, des besoins de la politique cantonale, 
 chaque établissement pourra assurer des spécialités. Pour tout le reste, le recours à des hôpitaux hors canton fera l'affaire, c'est 
