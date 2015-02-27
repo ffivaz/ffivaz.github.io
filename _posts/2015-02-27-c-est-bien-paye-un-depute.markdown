@@ -27,9 +27,9 @@ sans compter la préparation personnelle des dossiers, lecture des rapports, ré
 Pour mes indemnités de déplacement, j'ai touché 2260 francs en 2014. Pour mes indemnités informatiques 1000 francs.
 
 Les Verts neuchâtelois ont fixé une règle pour la retrocession des jetons de présence au parti. La moitié des indemnités sont reversées aux Verts, jusqu'à concurrence de 5000 francs, soit la limite fixée 
-par la légisaltion neuchâteloises pour la défiscalisation des versements aux partis politiques. En 2014, j'ai reversé à peine plus, soit 5500 francs, plus 200 de cotisations ordinaires.
+par la législation neuchâteloises pour la défiscalisation des versements aux partis politiques. En 2014, j'ai reversé à peine plus, soit 5500 francs, plus 200 de cotisations ordinaires.
   
-A noter encore que la moitié seulement des jetons de présence sont défiscalisés, minimum 3000 francs, maximum 8000 francs. Dans mon cas, ce sont 6200 francs que j'ai ajouté à ma déclaration d'impôts.
+A noter encore que la moitié des jetons de présence sont défiscalisés, minimum 3000 francs, maximum 8000 francs. Dans mon cas, ce sont 6200 francs que j'ai ajouté à ma déclaration d'impôts.
  
 Les chiffres à la clé, je laisse maintenant chacun juger si les députés neuchâtelois sont bien payés.
 
