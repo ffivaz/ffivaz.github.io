@@ -31,6 +31,6 @@ par la législation neuchâteloises pour la défiscalisation des versements aux 
   
 A noter encore que la moitié des jetons de présence sont défiscalisés, minimum 3000 francs, maximum 8000 francs. Dans mon cas, ce sont 6200 francs que j'ai ajouté à ma déclaration d'impôts.
  
-Les chiffres à la clé, je laisse maintenant chacun juger si les députés neuchâtelois sont bien payés.
+Ces chiffres à la clé, je laisse maintenant chacun juger si les députés neuchâtelois sont bien payés.
 
 Un point encore : il n'existe pas de rente à vie des députés, qu'on se le dise.
