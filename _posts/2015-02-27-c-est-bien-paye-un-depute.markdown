@@ -10,8 +10,8 @@ sitemap:
 ---
 
 Il y a deux ans, le Grand Conseil a revu sa Loi d'organisation. Il a changé divers points liés à la procédure, et a plus ou moins doublé les jetons de présence. Aujourd'hui, les députés reçoivent 200 
-francs pour les séances qui durent plus de deux heures, 100 francs pour celles qui durent moins (art. 328). Les présidents de séance ou rapporteurs d'une commission obtiennent une indemnité de 300 francs 
-respectivement 150 francs. A ces jetons de présence, il faut ajouter une indemnité informatique de 1000 francs par année (pour celles et ceux qui choisissent de ne plus recevoir les documents sur papier) et des 
+francs pour les séances qui durent plus de deux heures, 100 francs pour celles qui durent moins (art. 328). Les présidents de séance ou rapporteurs d'une commission obtiennent un supplément de 100 francs 
+respectivement 50 francs. A ces jetons de présence, il faut ajouter une indemnité informatique de 1000 francs par année (pour celles et ceux qui choisissent de ne plus recevoir les documents sur papier) et des 
 indemnités de déplacement.
 
 En 2014, mon salaire net comme député a été de **12'400 francs**. Dans le détail :
@@ -26,7 +26,7 @@ sans compter la préparation personnelle des dossiers, lecture des rapports, ré
 
 Pour mes indemnités de déplacement, j'ai touché 2260 francs en 2014. Pour mes indemnités informatiques 1000 francs.
 
-Les Verts neuchâtelois ont fixé une règle pour la retrocession des jetons de présence au parti. La moitié des indemnités sont reversées aux Verts, jusqu'à concurrence de 5000 francs, soit la limite fixée 
+Les Verts neuchâtelois ont fixé une règle pour la retrocession des jetons de présence au parti. La moitié des jetons sont reversées aux Verts, jusqu'à concurrence de 5000 francs, soit la limite fixée 
 par la législation neuchâteloises pour la défiscalisation des versements aux partis politiques. En 2014, j'ai reversé à peine plus, soit 5500 francs, plus 200 de cotisations ordinaires.
   
 A noter encore que la moitié des jetons de présence sont défiscalisés, minimum 3000 francs, maximum 8000 francs. Dans mon cas, ce sont 6200 francs que j'ai ajouté à ma déclaration d'impôts.
