@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discours du 1er mai
+title: Discours de la fête du travail
 summary: J'étais invité à prendre la parole lors de la fête du travail à Fleurier. Merci aux vallonniers pour l'accueil et la paella!
 twitter: Mon discours de la fête du travail à fleurier
 sitemap:
