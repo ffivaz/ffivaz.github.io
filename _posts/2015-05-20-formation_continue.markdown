@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La majorité du Grand Conseil ne veut rien faire pour la formation continue
-summary: 
+summary: C'était à prévoir. Face à une proposition de créer un système de chèques de formation continue, la droite du Grand Conseil dit non. Et attend de la Confédération qu'elle le fasse à notre place. Mais elle plébiscite le fédéralisme concernant les bourses d'étude...
 twitter: La majorité du Grand Conseil ne veut rien faire pour la formation continue
 sitemap:
   lastmod: 2015-05-20
@@ -29,7 +29,7 @@ Entre ceux qui ne veulent pas perdre leur fond de commerce et ceux qui ne veulen
 Le plus paradoxal ? La question de la formation continue revient par la petite porte puisque le parlement traitera la semaine prochaine [une proposition d'avis] [2] de la 
 commission législative, rédigée autant par la gauche que la droite qui demande de répondre à la consultation fédérale qui traite justement des suites à donner au vote du 9 février. On peut y lire que « Finalement, 
 la Confédération devrait favoriser davantage les mesures permettant de prévenir le chômage, par exemple à travers des soutiens accrus à la formation continue des adultes. ». Ne cherchez pas, pour une majorité 
-du Parlement neuchâtelois, ce sont aux autres de faire le travail...
+du Parlement neuchâtelois, ce sont aux autres de faire le travail... Et ce sont les mêmes qui, concernant les bourses d'étude, expliquent que tout va bien, qu'il faut laisser cette tâche aux cantons...
 
 [1]: http://www.ne.ch/autorites/GC/objets/Documents/Postulats/2015/15116.pdf
 [2]: http://www.ne.ch/autorites/GC/objets/Documents/PropositionsAvis/2015/15143.pdf
