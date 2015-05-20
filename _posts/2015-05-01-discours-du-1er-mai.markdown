@@ -4,7 +4,7 @@ title: Discours de la fête du travail
 summary: J'étais invité à prendre la parole lors de la fête du travail à Fleurier. Merci aux vallonniers pour l'accueil et la paella !
 twitter: Mon discours de la fête du travail à fleurier
 sitemap:
-  lastmod: 2015-02-27
+  lastmod: 2015-05-01
   priority: 0.7
   changefreq: 'never'
 ---
