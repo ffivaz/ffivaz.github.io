@@ -17,7 +17,7 @@ Les Verts ont donc déposé récemment au Grand Conseil [un postulat] [1] demand
 comme cela se pratique dans d'autres cantons. Il a été balayé par la droite (58 contre et 53 pour) lors de la session d'avril, même si la proposition n'était qu'une demande d'étude.
 
 Pas besoin de vous faire un dessin concernant le vote de l'UDC sur la question : c'était non. Il faut dire que le groupe sait très bien agiter les épouvantails pour faire 
-accepter des solutions simplistes. Il sait moins par contre proposer des solutions pour sortir le pays de la merde dans laquelle ces propositions nous ont mises. Après moi le déluge.
+accepter des propositions simplistes. Il sait moins par contre proposer des solutions pour sortir le pays de la merde dans laquelle ces propositions nous ont mises. Après moi le déluge.
 
 Et le PLR ? Ils ont choisi de faire comme s'ils n'avaient pas compris la question et l'enjeu : oui, il faut faire quelque chose, mais pas comme ça, pas maintenant, et l'Etat en fait déjà 
 assez – sans parler des entreprises. C'est pourtant la chambre du commerce et de l'industrie qui pleure chaque fois qu'elle le peut – c'est-à-dire quand elle ne se plaint pas des impôts – sur 
