@@ -29,7 +29,7 @@ autres signataires. Et contrairement aux négociations conduites sous l’égide
 plus pour gagner moins, manger des OGM et des hormones, devrons-nous subventionner les hôpitaux et les écoles privées au même titre que le public ? Ce sont des années de luttes – pour la responsabilité sociale et 
 environnementale des entreprises – qui pourraient être anéantie par la signature de ces accords ! Ils sont un déni de démocratie, nous devons les combattre par tous les moyens.
 
-La Suisse est dopée par une croissance inédite. Elle est à l’aise dans un 21ème siècle globalisé. Mais ces « victoires » ont des coûts. Socialement, lorsque la Suisse est championne du monde de la ~~productivité~~ \*, 
+La Suisse est dopée par une croissance inédite. Elle est à l’aise dans un 21ème siècle globalisé. Mais ces « victoires » ont des coûts. Socialement, lorsque la Suisse est championne du monde de la ~~productivité~~ \* compétitivité, 
 ce n’est pas pour le bien de toutes et tous. Dix pourcents de la population active au moins ne profitent pas de la santé économique. Ils sont pour diverses raisons les abandonnés de la mondialisation : des personnes 
 qui ne peuvent pas suivre le rythme imposé, qui finissent à l’AI, au chômage, à l’aide sociale. Le monde politique devra répondre ces prochaines années à ces défis, sans quoi les initiatives comme ECOPOP ou sur 
 l’immigration de masse continueront à obtenir des scores qui mettent en danger notre tradition d’ouverture, sans répondre aux problèmes qu’elles instrumentalisent. Nous l’avons encore vu au Grand Conseil mercredi. 
