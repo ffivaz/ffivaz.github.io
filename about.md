@@ -14,7 +14,7 @@ Je suis né le 25 février 1978 à La Chaux-de-Fonds. Biologiste de formation, j
 pour le [Centre suisse de cartographie de la faune](http://www.cscf.ch "site du CSCF") à Neuchâtel – une fondation active dans la conservation 
 de la biodiversité. Je suis père d’un enfant de 3 ans.
 
-Je suis député au Grand Conseil neuchâtelois depuis 2009. Vice-président de la Commission financière et président de la sous-commission en charge du Département du développement territorial et de l’environnement. Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds.
+Je suis député au Grand Conseil neuchâtelois depuis 2009. Président de la Commission financière et président de la sous-commission en charge du Département du développement territorial et de l’environnement. Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds.
 
 Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.ton-sur-ton.ch) – un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds, et l’[association Surface Solidaire](http://surfacesolidaire.ch), active dans la création de coopératives solaires.
 
