@@ -316,7 +316,7 @@
     position: absolute;
     margin-left: $content-width - (2*$spacing-unit) - 250;
     margin-right: $spacing-unit;
-    margin-top: 4*$spacing-unit;
+    margin-top: 2*$spacing-unit;
     width: 250px;
 
     @include media-query($on-palm) {
