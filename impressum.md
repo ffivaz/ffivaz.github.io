@@ -3,7 +3,7 @@ layout: page
 title: Impressum
 alt: Impressum
 summary: Quelques informations sur le site
-permalink: /impressum
+permalink: /impressum/
 sitemap:
   lastmod: 2015-08-31
   priority: 1
