@@ -1,13 +1,14 @@
 ---
 layout: page
 alt: Impressum
-summary: Quelques informations sur le site
 permalink: /impressum/
 sitemap:
   lastmod: 2015-08-31
   priority: 1
   changefreq: 'monthly'
 ---
+
+# Impressum
 
 ### Vie privée
 
