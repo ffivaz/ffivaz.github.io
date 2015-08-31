@@ -16,6 +16,6 @@ Pour des raisons de convivialité et pour me permettre d'avoir à disposition qu
 
 1. [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=fr "Informations sur la confidentialité GA") : j'utilise la version de base de Google Analytics pour connaître le nombre de visiteurs, les pages qu'ils 
 consultent, le temps qu'ils passent sur le site. Comme le stipulent les conditions d'utilisation du service, aucune donnée qui permettrait d'identifier raisonnablement un individu ne sont 
-transmises. En outre, conformément à l'usage, je m'engage à ne pas transmettre ces informations à des tiers.
+transmises. En outre, conformément à l'usage, je m'engage à ne pas transmettre ces informations à des tiers. Google Analytics génère le seul cookie utilisé sur ce site.
 
-2. 
+2. [Facebook] : Afin de suivre l'évolution du nombre de publication sur les réseaux sociaux, j'utilise les outils mis à disposition par Facebook. 
