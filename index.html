@@ -27,7 +27,7 @@ sitemap:
               {% when '12' %}décembre
             {% endcase %} {{ post.date | date: '%Y' }}</span>
         <p class="post-summary">{{ post.summary }}</p>
-        <p><a href="{{ post.url | prepend: site.baseurl }}#mtext">Lire la suite</a></p>
+        <p><a href="{{ post.url | prepend: site.baseurl }}#mtext" title="{{ post.title }}">Lire la suite</a></p>
       </li>
     {% endfor %}
   <li><p class="post-content">

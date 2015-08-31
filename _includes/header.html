@@ -35,7 +35,7 @@
         <a class="page-link" href="/" alt="Page d'accueil">Accueil</a>
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" alt="{{ page.alt }}">{{ page.title }}</a>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" alt="{{ page.alt }}" title="{{ page.title }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
