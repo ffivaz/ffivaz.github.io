@@ -8,7 +8,7 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-# Impressum
+## Impressum
 
 ### Vie privée
 
