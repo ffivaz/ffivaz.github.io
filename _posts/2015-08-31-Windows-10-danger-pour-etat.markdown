@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10, danger pour l'Etat ?
-summary: Une question d'actualité. L'Etat, les communes, les entités qui dépendent du service informatique dépendent depuis des décennies du monopole de Microsoft. Avec les récentes révélations sur les problèmes d'atteinte à la vie privée et à la sécurité que pose le nouveau Windows 10, une question sur le sujet s'impose.
+summary: Une question d'actualité. L'Etat, les communes, les entités qui dépendent du service informatique s'appuyent depuis des décennies sur le monopole de Microsoft. Avec les récentes révélations sur les problèmes d'atteinte à la vie privée et à la sécurité que pose le nouveau Windows 10, une question sur le sujet s'impose.
 twitter: Windows 10, un danger pour l'Etat?
 sitemap:
   lastmod: 2015-08-31
