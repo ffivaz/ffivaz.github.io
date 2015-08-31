@@ -1,29 +1,29 @@
 ---
 layout: post
-title: Windows 10, danger pour les collectivités publiques?
-summary: Une question d'actualité. L'Etat, les communes, les entités qui dépendent du service informatique s'appuyent depuis des décennies sur le monopole de Microsoft. Avec les récentes révélations sur les problèmes d'atteinte à la vie privée et à la sécurité que pose le nouveau Windows 10, une question sur le sujet s'impose.
-twitter: Windows 10, un danger pour les collectivités publiques?
+title: Windows 10, danger pour les collectivitÃ©s publiques?
+summary: Une question d'actualitÃ©. L'Etat, les communes, les entitÃ©s qui dÃ©pendent du service informatique s'appuyent depuis des dÃ©cennies sur le monopole de Microsoft. Avec les rÃ©centes rÃ©vÃ©lations sur les problÃ¨mes d'atteinte Ã  la vie privÃ©e et Ã  la sÃ©curitÃ© que pose le nouveau Windows 10, une question sur le sujet s'impose.
+twitter: Windows 10, un danger pour les collectivitÃ©s publiques?
 sitemap:
   lastmod: 2015-08-31
   priority: 0.7
   changefreq: 'never'
 ---
 
-Il y a quelques semaines, Microsoft a lancé Windows 10, son nouveau système d'exploitation. Les spécialistes n'ont pas tardé à dénoncer les graves atteintes
-à la vie privée que le système généralise. Les risques sont importants: le préposé fédéral suppléant à la protection des données à lancé une procédure d'éclaircissement il y a dix jours.
+Il y a quelques semaines, Microsoft a lancÃ© Windows 10, son nouveau systÃ¨me d'exploitation. Les spÃ©cialistes n'ont pas tardÃ© Ã  dÃ©noncer les graves atteintes
+Ã  la vie privÃ©e que le systÃ¨me gÃ©nÃ©ralise. Les risques sont importants: le prÃ©posÃ© fÃ©dÃ©ral supplÃ©ant Ã  la protection des donnÃ©es Ã  lancÃ© une procÃ©dure d'Ã©claircissement il y a dix jours.
 
-Parmi les informations transférées à Microsoft, et/ou à des tiers, éditeurs de logiciels ou régies publicitaires, figurent entre autres : la transmission de mots-de-passe,
-des clés de chiffrement pour la protection de données, des données d’utilisation des logiciels, des informations sur les réseaux auxquels les ordinateurs se connectent ou des
-informations générales de "diagnostic" (télémétrie). De plus, le système attribue un identifiant unique à des fins de traçage publicitaire à tous les postes de travail.
-Certains de ces transferts ne peuvent pas être bloqués, ils font partie intégrante du contrat d'utilisation.
+Parmi les informations transfÃ©rÃ©es Ã  Microsoft, et/ou Ã  des tiers, Ã©diteurs de logiciels ou rÃ©gies publicitaires, figurent entre autres : la transmission de mots-de-passe,
+des clÃ©s de chiffrement pour la protection de donnÃ©es, des donnÃ©es dâ€™utilisation des logiciels, des informations sur les rÃ©seaux auxquels les ordinateurs se connectent ou des
+informations gÃ©nÃ©rales de "diagnostic" (tÃ©lÃ©mÃ©trie). De plus, le systÃ¨me attribue un identifiant unique Ã  des fins de traÃ§age publicitaire Ã  tous les postes de travail.
+Certains de ces transferts ne peuvent pas Ãªtre bloquÃ©s, ils font partie intÃ©grante du contrat d'utilisation.
 
-Selon certaines informations, une partie au moins de ces éléments a été récemment élargie aux versions 7 et 8 du système d'exploitation à travers quatre mises à jour qui
-ajoutent des éléments de diagnostic et de télémétrie. Ces mises à jour ne s'appliquent d'ailleurs pas seulement aux versions "bureau" du système, mais également aux versions "serveur".
+Selon certaines informations, une partie au moins de ces Ã©lÃ©ments a Ã©tÃ© rÃ©cemment Ã©largie aux versions 7 et 8 du systÃ¨me d'exploitation Ã  travers quatre mises Ã  jour qui
+ajoutent des Ã©lÃ©ments de diagnostic et de tÃ©lÃ©mÃ©trie. Ces mises Ã  jour ne s'appliquent d'ailleurs pas seulement aux versions "bureau" du systÃ¨me, mais Ã©galement aux versions "serveur".
 
-Le Conseil d'Etat est prié de répondre aux questions suivantes :
+Le Conseil d'Etat est priÃ© de rÃ©pondre aux questions suivantes :
 
-1. Quelle est l'appréciation du Conseil d'Etat concernant les risques d'atteinte à la vie privée et à la sécurité que ces éléments font courir aux employéEs et aux systèmes informatiques de l'Etat ?
+1. Quelle est l'apprÃ©ciation du Conseil d'Etat concernant les risques d'atteinte Ã  la vie privÃ©e et Ã  la sÃ©curitÃ© que ces Ã©lÃ©ments font courir aux employÃ©Es et aux systÃ¨mes informatiques de l'Etat ?
 
-2. L'Etat va-t-il passer l'ensemble des postes de travail et serveur de l'administration et des entités qui dépendent du SIEN à Windows 10 ? Quel est le calendrier pour la migration ?
+2. L'Etat va-t-il passer l'ensemble des postes de travail et serveur de l'administration et des entitÃ©s qui dÃ©pendent du SIEN Ã  Windows 10 ? Quel est le calendrier pour la migration ?
 
-3. L'Etat a-t-il une stratégie pour limiter à l'avenir sa très forte dépendance vis-à-vis d'un seul éditeur de logiciel ; dépendance qui l'oblige à accepter les conditions d'utilisation portant atteinte à sa sécurité ?
+3. L'Etat a-t-il une stratÃ©gie pour limiter Ã  l'avenir sa trÃ¨s forte dÃ©pendance vis-Ã -vis d'un seul Ã©diteur de logiciel ; dÃ©pendance qui l'oblige Ã  accepter les conditions d'utilisation portant atteinte Ã  sa sÃ©curitÃ© ?
