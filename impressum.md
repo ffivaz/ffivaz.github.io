@@ -24,7 +24,7 @@ outils mis à disposition par Facebook. Ceux-ci n'utilisent pas de cookie pour l
 ce sont vos propres paramètres de confidentialité qui s'appliquent. 
  
 3. Twitter : Afin de donner un aperçu de mes derniers tweets, j'utilise la timeline mise à disposition par Twitter. Elle n'implique que le téléchargement des informations depuis Twitter. 
-L'application n'utilise pas de cookie.
+L'application n'utilise pas de cookie. Lorsque vous partagez une page sur Twitter, ce sont vos propres paramètres de confidentialité qui s'appliquent.
   
 4. [disqus](https://help.disqus.com/customer/portal/articles/466259-privacy-policy "Paramètre de confidentialité disqus") : Afin de vous permettre de commenter mon blog, j'utilise le 
 système offert par disqus. Techniquement, ceci permet d'avoir des pages "fixes" puisqu'il n'y a pas de base de données derrière fabienfivaz.ch. Lorsque vous utilisez le système de 
