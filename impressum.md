@@ -14,6 +14,8 @@ sitemap:
 
 Pour des raisons de convivialité et pour me permettre d'avoir à disposition quelques informations sur l'utilisation de mon site Internet, j'ai recours à quelques outils de traçage.
 
-1. [Google Analytics][https://support.google.com/analytics/answer/6004245?hl=fr]: j'utilise la version de base de Google Analytics pour connaître le nombre de visiteurs, les pages qu'ils 
-consultent, le temps qu'ils passent sur le site. Comme le stipulent les conditions d'utilisation du service, aucune données qui permettrait d'identifier raisonnablement un individu ne sont 
-transmises 
+1. [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=fr "Informations sur la confidentialité GA") : j'utilise la version de base de Google Analytics pour connaître le nombre de visiteurs, les pages qu'ils 
+consultent, le temps qu'ils passent sur le site. Comme le stipulent les conditions d'utilisation du service, aucune donnée qui permettrait d'identifier raisonnablement un individu ne sont 
+transmises. En outre, conformément à l'usage, je m'engage à ne pas transmettre ces informations à des tiers.
+
+2. 
