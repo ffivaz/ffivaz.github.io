@@ -27,3 +27,4 @@ L'application n'utilise pas de cookie.
   
 4. [disqus](https://help.disqus.com/customer/portal/articles/466259-privacy-policy "Paramètre de confidentialité disqus") : Afin de vous permettre de commenter mon blog, j'utilise le système offert par disqus. Techniquement, ceci permet d'avoir des pages "fixes" puisqu'il n'y a pas de base de 
 données derrière fabienfivaz.ch. Lorsque vous utilisez le système de commentaire - lorsque vous commentez une page - vous acceptez implicitement les conditions d'utilisation du système.
+A noter que disqus ne fait pas de modération. Si un de vos commentaires devait être effacé, la responsabilité en incombe qu'à moi-même. Merci de rester poli et constructif.
