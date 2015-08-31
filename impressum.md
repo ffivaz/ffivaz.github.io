@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Impressum
 alt: Impressum
 summary: Quelques informations sur le site
 permalink: /impressum/
