@@ -23,7 +23,7 @@ Google Analytics génère le seul cookie utilisé sur ce site.
 outils mis à disposition par Facebook. Ceux-ci n'utilisent pas de cookie pour le traçage, je n'tuilise pas les outils statistiques. Lorsque vous partagez ou aimez une publication, 
 ce sont vos propres paramètres de confidentialité qui s'appliquent. 
  
-3. Twitter : Afin de donner un aperçu de mes derniers tweets, j'utilise la timeline mise à disposition par Twitter. Elle n'implique que le téléchargement des informations depuis Twitter. 
+3. [Twitter](https://twitter.com/privacy?lang=fr "Confidentialité selon Twitter") : Afin de donner un aperçu de mes derniers tweets, j'utilise la timeline mise à disposition par Twitter. Elle n'implique que le téléchargement des informations depuis Twitter. 
 L'application n'utilise pas de cookie. Lorsque vous partagez une page sur Twitter, ce sont vos propres paramètres de confidentialité qui s'appliquent.
   
 4. [disqus](https://help.disqus.com/customer/portal/articles/466259-privacy-policy "Paramètre de confidentialité disqus") : Afin de vous permettre de commenter mon blog, j'utilise le 
