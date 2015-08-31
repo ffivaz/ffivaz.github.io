@@ -22,8 +22,8 @@ ajoutent des éléments de diagnostic et de télémétrie. Ces mises à jour ne s'appl
 
 Le Conseil d'Etat est prié de répondre aux questions suivantes :
 
-1) Quelle est l'appréciation du Conseil d'Etat concernant les risques d'atteinte à la vie privée et à la sécurité que ces éléments font courir aux employéEs et aux systèmes informatiques de l'Etat ?
+1. Quelle est l'appréciation du Conseil d'Etat concernant les risques d'atteinte à la vie privée et à la sécurité que ces éléments font courir aux employéEs et aux systèmes informatiques de l'Etat ?
 
-2) L'Etat va-t-il passer l'ensemble des postes de travail et serveur de l'administration et des entités qui dépendent du SIEN à Windows 10 ? Quel est le calendrier pour la migration ?
+2. L'Etat va-t-il passer l'ensemble des postes de travail et serveur de l'administration et des entités qui dépendent du SIEN à Windows 10 ? Quel est le calendrier pour la migration ?
 
-2) L'Etat a-t-il une stratégie pour limiter à l'avenir sa très forte dépendance vis-à-vis d'un seul éditeur de logiciel ; dépendance qui l'oblige à accepter les conditions d'utilisation portant atteinte à sa sécurité ?
+3. L'Etat a-t-il une stratégie pour limiter à l'avenir sa très forte dépendance vis-à-vis d'un seul éditeur de logiciel ; dépendance qui l'oblige à accepter les conditions d'utilisation portant atteinte à sa sécurité ?
