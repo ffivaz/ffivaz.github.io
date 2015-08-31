@@ -10,7 +10,7 @@ sitemap:
 ---
 
 Il y a quelques semaines, Microsoft a lancé Windows 10, son nouveau système d'exploitation. Les spécialistes n'ont pas tardé à dénoncer les graves atteintes
-à la vie privée que le système généralise. Les risques sont importants: le préposé fédéral suppléant à la protection des données à lancé une procédure d'éclaircissement il y a dix jours.
+à la vie privée que le système généralise. Les risques sont importants: le préposé fédéral suppléant à la protection des données a lancé une procédure d'éclaircissement il y a dix jours.
 
 Parmi les informations transférées à Microsoft, et/ou à des tiers, éditeurs de logiciels ou régies publicitaires, figurent entre autres : la transmission de mots-de-passe,
 des clés de chiffrement pour la protection de données, des données d’utilisation des logiciels, des informations sur les réseaux auxquels les ordinateurs se connectent ou des
