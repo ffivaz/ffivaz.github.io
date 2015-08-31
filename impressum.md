@@ -10,10 +10,10 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-### Vie privée
+### Vie privÃ©e
 
-Pour des raisons de convivialité et pour me permettre d'avoir à disposition quelques informations sur l'utilisation de mon site Internet, j'ai recours à quelques outils de traçage.
+Pour des raisons de convivialitÃ© et pour me permettre d'avoir Ã  disposition quelques informations sur l'utilisation de mon site Internet, j'ai recours Ã  quelques outils de traÃ§age.
 
-1. [Google Analytics][https://support.google.com/analytics/answer/6004245?hl=fr]: j'utilise la version de base de Google Analytics pour connaître le nombre de visiteurs, les pages qu'ils 
-consultent, le temps qu'ils passent sur le site. Comme le stipulent les conditions d'utilisation du service, aucune données qui permettrait d'identifier raisonnablement un individu ne sont 
+1. [Google Analytics][https://support.google.com/analytics/answer/6004245?hl=fr]: j'utilise la version de base de Google Analytics pour connaÃ®tre le nombre de visiteurs, les pages qu'ils 
+consultent, le temps qu'ils passent sur le site. Comme le stipulent les conditions d'utilisation du service, aucune donnÃ©es qui permettrait d'identifier raisonnablement un individu ne sont 
 transmises 
