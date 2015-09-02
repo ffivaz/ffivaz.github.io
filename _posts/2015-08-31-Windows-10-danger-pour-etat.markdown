@@ -27,3 +27,9 @@ Le Conseil d'Etat est prié de répondre aux questions suivantes :
 2. L'Etat va-t-il passer l'ensemble des postes de travail et serveur de l'administration et des entités qui dépendent du SIEN à Windows 10 ? Quel est le calendrier pour la migration ?
 
 3. L'Etat a-t-il une stratégie pour limiter à l'avenir sa très forte dépendance vis-à-vis d'un seul éditeur de logiciel ; dépendance qui l'oblige à accepter les conditions d'utilisation portant atteinte à sa sécurité ?
+
+**Réponse du Conseil d'Etat : circulez! Les atteintes à la vie privée sont bénéfiques à l'utilisateur, en offrant de meilleurs
+services. La généralisation de Windows sur l'ensemble des machines (des serveurs aux téléphones, tablettes et postes de travail)
+est bénéfique en réduisant les coûts de maintenance. L'Etat suivra néanmoins les recommandations du préposé fédéral
+(et cantonal) à la protection des données, et de la société suisse d'informatique. La migration vers la version 10 ne se
+fera pas avant 2016.**
