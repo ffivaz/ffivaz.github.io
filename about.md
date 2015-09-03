@@ -16,8 +16,8 @@ une fondation active dans la conservation de la biodiversité. Je suis père de 
 
 Je suis député au Grand Conseil neuchâtelois depuis 2009. Président de la Commission financière et président de la
 sous-commission en charge du Département du développement territorial et de l’environnement.
-Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds. En 2011, je suis arrivé deuxsième de la liste des
-Verts au Consei national, derrière Francine john-Calame.
+Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds. En 2011, je suis arrivé deuxième de la liste des
+Verts au Conseil national, derrière Francine john-Calame.
 
 Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.ton-sur-ton.ch) –
 un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds,
