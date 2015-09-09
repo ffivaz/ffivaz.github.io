@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accueillir et intégrer
-summary: Parce que nous n'avons pas le choix face aux défis migratoires qui nous attendent, nous devons faire ce que nous avons toujours su faire en Suisse: accueillir et intégrer  
+summary: Parce que nous n'avons pas le choix face aux défis migratoires qui nous attendent, nous devons faire ce que nous avons toujours su faire en Suisse, à savoir accueillir et intégrer  
 twitter: Défi migratoire: accueillir et intégrer
 sitemap:
   lastmod: 2015-09-09
