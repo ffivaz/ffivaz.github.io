@@ -2,7 +2,7 @@
 layout: post
 title: Accueillir et intégrer
 summary: Parce que nous n'avons pas le choix face aux défis migratoires qui nous attendent, nous devons faire ce que nous avons toujours su faire en Suisse, à savoir accueillir et intégrer  
-twitter: Défi migratoire: accueillir et intégrer
+twitter: Défi migratoire - accueillir et intégrer
 sitemap:
   lastmod: 2015-09-09
   priority: 0.7
@@ -16,7 +16,7 @@ Moyen-Orient. Des guerres pour lesquelles l’Europe et les Etats-Unis portent u
 L’exemple de la Libye ou de l’Irak devrait suffire à nous convaincre que les interventions militaires sans 
 le service après-vente ne sont pas seulement inutiles, mais carrément contreproductives.
 
-###Accueillir
+###Accueillir###
 
 La Suisse a une importante tradition humanitaire, ici comme ailleurs dans le monde, au travers de ses engagements 
 comme dépositaire des conventions de Genève, comme pays ayant vu la naissance de la Croix-Rouge, comme terre 
@@ -34,7 +34,7 @@ d’accélérer les procédures d’asile. Il est inadmissible de renvoyer des f
 de suivre des cours de français et dont les enfants sont scolarisés depuis deux ans en Suisse, y compris – 
 peut-être même en particulier – dans le cadre des procédures Dublin.
 
-###Intégrer
+###Intégrer###
 
 Le contrat d’intégration n’implique pas seulement les immigrés. Il implique une responsabilité des cantons et 
 de la Confédération qui doivent développer et structurer les outils d’intégration. Le canton de Neuchâtel est 
