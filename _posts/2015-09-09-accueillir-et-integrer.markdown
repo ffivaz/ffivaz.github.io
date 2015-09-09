@@ -22,7 +22,7 @@ La Suisse a une importante tradition humanitaire, ici comme ailleurs dans le mon
 comme dépositaire des conventions de Genève, comme pays ayant vu la naissance de la Croix-Rouge, comme terre 
 d’immigration, à l’image d’un canton de Neuchâtel façonné par la présence des étrangers depuis longtemps. 
 Depuis une décennie, la politique fédérale envers les étrangers et en matière d’asile est guidée par l’extrémisme de 
-l’UDC. Combien de vote pour durcir le droit d’asile faudra-t-il encore pour que nous prenions conscience de l’inhumaine 
+l’UDC. Combien de votes pour durcir le droit d’asile faudra-t-il encore pour que nous prenions conscience de l’inhumaine 
 inutilité de ces serrages de vis ? Ce n’est pas en fermant nos frontières que nous empêcherons les personnes
  vivant l’enfer de la guerre ou persécutés par les dictatures d’embarquer pour une dangereuse traversée de la Méditerranée.
 
@@ -49,7 +49,7 @@ notre système d'intégration fonctionne.
 Ca ne suffit pas. Il est intéressant de constater que le système neuchâtelois fonctionne particulièrement 
 bien parce qu’il fédère les étrangers au sein des communautés. Ce système permet des échanges, évitent l’isolement 
 lié à la langue ou la culture et permet une forme de contrôle social de ses membres. Ce fonctionnement communautaire 
-doit toutefois éviter la formation de ghetto 
+doit pourtant éviter la ghettoïsation. 
 
 Il est intéressant de constater que ceux qui veulent aujourd’hui démonter nos systèmes d’intégration, qui 
 n’accepte pas le contrat implicite lié à l’intégration sont les mêmes qui veulent fermer nos frontières. 
