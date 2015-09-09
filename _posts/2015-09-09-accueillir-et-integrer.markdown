@@ -46,7 +46,7 @@ ensemble un avenir. J'étais dans le bus l'autre jour, lorsque quatre jeunes afr
 apprentissage et se lèvent en coeur pour aider une personne en chaise roulante à descendre du bus, alors je sais que 
 notre système d'intégration fonctionne.
 
-Ca ne suffit pas. Il est intéressant de constater que le système neuchâtelois fonctionne particulièrement 
+Ça ne suffit pas. Il est intéressant de constater que le système neuchâtelois fonctionne particulièrement 
 bien parce qu’il fédère les étrangers au sein des communautés. Ce système permet des échanges, évite l’isolement 
 lié à la langue ou la culture et permet une forme de contrôle social de ses membres. Ce fonctionnement communautaire 
 doit toutefois éviter à tout prix la ghettoïsation à la française. 
