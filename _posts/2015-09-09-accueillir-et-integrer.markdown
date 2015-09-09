@@ -49,7 +49,7 @@ notre système d'intégration fonctionne.
 Ca ne suffit pas. Il est intéressant de constater que le système neuchâtelois fonctionne particulièrement 
 bien parce qu’il fédère les étrangers au sein des communautés. Ce système permet des échanges, évitent l’isolement 
 lié à la langue ou la culture et permet une forme de contrôle social de ses membres. Ce fonctionnement communautaire 
-doit pourtant éviter la ghettoïsation. 
+doit toutefois éviter à tout prix la ghettoïsation à la française. 
 
 Il est intéressant de constater que ceux qui veulent aujourd’hui démonter nos systèmes d’intégration, qui 
 n’accepte pas le contrat implicite lié à l’intégration sont les mêmes qui veulent fermer nos frontières. 
