@@ -14,12 +14,11 @@
     <link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
 
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:site_name" content="Fabien Fivaz en campagne" />
     {% if page.url == "/" %}
         <meta property="og:title" content="Page d'accueil" />
     {% else %}
-        <meta property="og:site_name" content="Fabien Fivaz en campagne" />
+        <meta property="og:title" content="{{ page.title }}" />
     {% endif %}
     {% if page.url == "/" %}
         <meta property="og:description" content="Fabien Fivaz. Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois. Candidat des Verts au Conseil national et au Conseil des Etats. Président de StopOGM" />
