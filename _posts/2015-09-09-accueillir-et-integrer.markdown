@@ -39,7 +39,7 @@ peut-être même en particulier – dans le cadre des procédures Dublin.
 Le contrat d’intégration n’implique pas seulement les immigrés. Il implique une responsabilité des cantons et 
 de la Confédération qui doivent développer et structurer les outils d’intégration. Le canton de Neuchâtel est 
 bien placé dans ce domaine. Il existe une kyrielle de structures qui prennent en charge les réfugiés, les orientent 
-dans les difficiles démarches liés à la procédure d’asile, donnent des cours de français ou de connaissance du 
+dans les difficiles démarches liées à la procédure d’asile, donnent des cours de français ou de connaissance du 
 fonctionnement des institutions suisses. Les enfants doivent être intégrés dans les écoles publiques. Allez voir 
 une cours de récréation, vous verrez comme cela permet aux uns comme aux autres de se confronter pour s’imaginer 
 ensemble un avenir. J'étais dans le bus l'autre jour, lorsque quatre jeunes africains parlent de la Braderie, de leur 
@@ -47,14 +47,14 @@ apprentissage et se lèvent en coeur pour aider une personne en chaise roulante 
 notre système d'intégration fonctionne.
 
 Ca ne suffit pas. Il est intéressant de constater que le système neuchâtelois fonctionne particulièrement 
-bien parce qu’il fédère les étrangers au sein des communautés. Ce système permet des échanges, évitent l’isolement 
+bien parce qu’il fédère les étrangers au sein des communautés. Ce système permet des échanges, évite l’isolement 
 lié à la langue ou la culture et permet une forme de contrôle social de ses membres. Ce fonctionnement communautaire 
 doit toutefois éviter à tout prix la ghettoïsation à la française. 
 
 Il est intéressant de constater que ceux qui veulent aujourd’hui démonter nos systèmes d’intégration, qui 
-n’accepte pas le contrat implicite lié à l’intégration sont les mêmes qui veulent fermer nos frontières. 
-Combien de fois l’UDC a-t-elle attaqué le service de la cohésion multiculturelle, par pure idéologie, sans 
-réfléchir aux conséquences à moyen et long terme d’une telle décision.
+n’acceptent pas le contrat implicite sont les mêmes qui veulent fermer nos frontières. 
+Combien de fois l’UDC a-t-elle attaqué le service neuchâtelois de la cohésion multiculturelle, par pure idéologie, 
+sans réfléchir aux conséquences à moyen et long terme d’une telle décision.
 
 Les défis de l'immigration sont multiples. Ils ne peuvent pas être résolus à coup de discours simplificateurs comme ceux qui 
 viennent de l'extrême droite. Surtout lorsque ceux-ci propose comme seule solution l'inutile fermeture de nos frontières. 
