@@ -16,7 +16,16 @@
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:site_name" content="Fabien Fivaz en campagne" />
-    <meta property="og:description" content="{{ page.summary }}" />
+    {% if page.url == "/" %}
+        <meta property="og:title" content="Page d'accueil" />
+    {% else %}
+        <meta property="og:site_name" content="Fabien Fivaz en campagne" />
+    {% endif %}
+    {% if page.url == "/" %}
+        <meta property="og:description" content="Fabien Fivaz. Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois. Candidat des Verts au Conseil national et au Conseil des Etats. Président de StopOGM" />
+    {% else %}
+        <meta property="og:description" content="{{ page.summary }}" />
+    {% endif %}
     <meta property="og:image" content="http://fabienfivaz.ch/images/logo_facebook.png" />
     <meta property="og:type" content="article" />
     <meta property="og:fb_app" content="584357875041211" />
