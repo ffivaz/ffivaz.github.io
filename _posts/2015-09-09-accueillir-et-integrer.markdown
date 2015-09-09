@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accueillir et intégrer
-summary: Parce que nous n'avons pas le choix face aux défis migratoires qui nous attendent, nous devons faire ce que nous savons le mieux faire, accueillir et intégrer  
+summary: Parce que nous n'avons pas le choix face au défi migratoire qui nous attend, nous devons renforcer deux aspects essentiels de la politique d'asile, accueillir et intégrer  
 twitter: Défi migratoire - accueillir et intégrer
 sitemap:
   lastmod: 2015-09-09
