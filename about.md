@@ -19,7 +19,7 @@ sous-commission en charge du Département du développement territorial et de l�
 Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds. En 2011, je suis arrivé deuxième de la liste des
 Verts au Conseil national, derrière Francine John Calame.
 
-Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.ton-sur-ton.ch) –
+Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.tonsurton.ch) –
 un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds,
 et l’[association Surface Solidaire](http://surfacesolidaire.ch), active dans la création de coopératives solaires.
 
