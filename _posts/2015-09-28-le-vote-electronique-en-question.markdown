@@ -18,16 +18,16 @@ Entre Genève et Neuchâtel, deux philosophies différentes s’affrontent : Gen
 de vote électronique. Ceci permet un audit très large de la plateforme. Lucerne et Bâle-Ville utilise la plateforme genevoise. Neuchâtel a choisi – seul – la voie inverse, 
 en s’associant à une entreprise privée (Scytl) pour développer son système, dont le code est fermé.
 
-La société Scytl n’est pas basée en Suisse. Elle est un « leader mondial » autoproclamé des systèmes de votes électroniques basé en Espagne. Ces clients sont nombreux, 
+La société Scytl n’est pas basée en Suisse. Elle est un « *leader mondial* » autoproclamé des systèmes de votes électroniques basé en Espagne. Ces clients sont nombreux, 
 de l’Union Européenne à des Etats et Villes américaines. Les actionnaires de Scytl sont principalement des fonds de capital-risque. La société Scytl affirme que son logiciel 
 a été très largement audité par des experts internationaux. Les systèmes de sécurité de la firme sont largement protégés par des Brevets en mains privées.
 
 Le débat sur la philosophie des systèmes de vote électronique a récemment été porté au Parlement fédéral (Mo. 15.3492 déposée par Christophe Darbellay). La motion demande 
-que « le vote électronique repose sur une solution dont les droits de propriété intellectuelle appartiennent exclusivement à des instances publiques suisses ». Elle demande 
+que « *le vote électronique repose sur une solution dont les droits de propriété intellectuelle appartiennent exclusivement à des instances publiques suisses* ». Elle demande 
 également que le code source soit accessible. Dans sa réponse, le Conseil fédéral estime que la sécurité est importante, en particulier le principe de la vérifiabilité individuelle. 
-Il estime également que l’accès au code source est gage de sécurité, et de confiance des utilisateurs vis-à-vis du système. Finalement, il conclut qu’il « a par ailleurs l'intention 
+Il estime également que l’accès au code source est gage de sécurité, et de confiance des utilisateurs vis-à-vis du système. Finalement, il conclut qu’il « *a par ailleurs l'intention 
 d'examiner de manière approfondie avec les cantons la question de l'accès au code source, en vue de conditionner l'autorisation des systèmes à cet accès lors de la prochaine révision 
-des bases légales. »
+des bases légales*. »
 
 Dans ce cadre, la voie choisie par le Canton de Neuchâtel pose un certain nombre de problèmes de viabilité et de questions :
 
