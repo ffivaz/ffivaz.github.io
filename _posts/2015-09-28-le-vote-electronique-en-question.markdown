@@ -2,7 +2,7 @@
 layout: post
 title: Le vote électronique en question
 summary: Une interpellation déposée au Grand Conseil pour questionner la pérennité du système fermé choisi par Neuchâtel pour son système de vote électronique, dans le cadre des évolutions informatiques et des évolutions à prévoir de la législation fédérale. 
-twitter: Le vote électronique en question (\#GCNE)
+twitter: Le vote électronique en question (&#35GCNE)
 sitemap:
   lastmod: 2015-09-28
   priority: 0.7
