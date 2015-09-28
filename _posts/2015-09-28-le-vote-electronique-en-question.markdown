@@ -30,12 +30,12 @@ d'examiner de manière approfondie avec les cantons la question de l'accès au cod
 des bases légales. »
 
 Dans ce cadre, la voie choisie par le Canton de Neuchâtel pose un certain nombre de problèmes de viabilité et de questions :
-1)	Quel serait la conséquence pour notre système de vote électronique de la faillite de l’entreprise informatique espagnole Scytl ?
-2)	Quels sont les garanties d’indépendance de Scytl vis-à-vis de ses investisseurs ? Et en cas de rachat par un concurrent ?
-3)	La société Scytl peut-elle envisager de publier le code source de son système ?
-4)	Si ce n’est pas le cas, qu’adviendrait-il de la solution neuchâteloise si le Parlement fédéral acceptait la Mo. 15.3492 ou si le Conseil fédéral fixait à l’avenir la publication du code source ou la détention publique des brevets comme une obligation ?
+1. Quel serait la conséquence pour notre système de vote électronique de la faillite de l’entreprise informatique espagnole Scytl ?
+2. Quels sont les garanties d’indépendance de Scytl vis-à-vis de ses investisseurs ? Et en cas de rachat par un concurrent ?
+3. La société Scytl peut-elle envisager de publier le code source de son système ?
+4. Si ce n’est pas le cas, qu’adviendrait-il de la solution neuchâteloise si le Parlement fédéral acceptait la Mo. 15.3492 ou si le Conseil fédéral fixait à l’avenir la publication du code source ou la détention publique des brevets comme une obligation ?
 
 Question subsidiaire. Le vote électronique repose aujourd’hui sur une base légale récente sur le plan juridique mais antique du point de vue informatique 
 (Décret sur l’introduction à titre expérimental des moyens électroniques… du 3 octobre 2001). Le titre même du décret donne l’impression d’une expérience alors que le vote 
 électronique est devenu une réalité concrète.
-1)	Le Conseil d’Etat envisage-t-il de revoir la loi ou de l’intégrer dans celle sur les droits politiques lui donner un cadre juridique conforme à sa pérennité ?
+1. Le Conseil d’Etat envisage-t-il de revoir la loi ou de l’intégrer dans celle sur les droits politiques lui donner un cadre juridique conforme à sa pérennité ?
