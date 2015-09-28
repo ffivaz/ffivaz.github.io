@@ -1,41 +1,41 @@
 ---
 layout: post
-title: Le vote électronique en question
-summary: Une interpellation déposée au Grand Conseil pour questionner la pérennité du système fermé choisi par Neuchâtel pour son système de vote électronique, dans le cadre des évolutions informatiques et des évolutions à prévoir de la législation fédérale. 
-twitter: Le vote électronique en question (GCNE)
+title: Le vote Ã©lectronique en question
+summary: Une interpellation dÃ©posÃ©e au Grand Conseil pour questionner la pÃ©rennitÃ© du systÃ¨me fermÃ© choisi par NeuchÃ¢tel pour son systÃ¨me de vote Ã©lectronique, dans le cadre des Ã©volutions informatiques et des Ã©volutions Ã  prÃ©voir de la lÃ©gislation fÃ©dÃ©rale. 
+twitter: Le vote Ã©lectronique en question (GCNE)
 sitemap:
   lastmod: 2015-09-28
   priority: 0.7
   changefreq: 'never'
 ---
 
-Neuchâtel est avec Genève un des cantons pilote et pionnier pour le vote électronique. Cette position a récemment été confortée par une décision du Conseil fédéral qui a 
-refusé à un certain nombre de cantons alémaniques la possibilité de voter en ligne lors des prochaines élections fédérales, pour des raisons de calendrier dans la mise en œuvre 
-de nouvelles règles de sécurité. En vue du 18 octobre, seuls les habitants de Neuchâtel et Genève pourront voter en ligne (de même que certains suisses de l’étranger à Lucerne et 
-Bâle-Ville).
+NeuchÃ¢tel est avec GenÃ¨ve un des cantons pilote et pionnier pour le vote Ã©lectronique. Cette position a rÃ©cemment Ã©tÃ© confortÃ©e par une dÃ©cision du Conseil fÃ©dÃ©ral qui a 
+refusÃ© Ã  un certain nombre de cantons alÃ©maniques la possibilitÃ© de voter en ligne lors des prochaines Ã©lections fÃ©dÃ©rales, pour des raisons de calendrier dans la mise en Å“uvre 
+de nouvelles rÃ¨gles de sÃ©curitÃ©. En vue du 18 octobre, seuls les habitants de NeuchÃ¢tel et GenÃ¨ve pourront voter en ligne (de mÃªme que certains suisses de lâ€™Ã©tranger Ã  Lucerne et 
+BÃ¢le-Ville).
 
-Entre Genève et Neuchâtel, deux philosophies différentes s’affrontent : Genève a choisi de développer son propre système. Il a publié le 19 août 2015 le code source du logiciel 
-de vote électronique. Ceci permet un audit très large de la plateforme. Lucerne et Bâle-Ville utilise la plateforme genevoise. Neuchâtel a choisi – seul – la voie inverse, 
-en s’associant à une entreprise privée (Scytl) pour développer son système, dont le code est fermé.
+Entre GenÃ¨ve et NeuchÃ¢tel, deux philosophies diffÃ©rentes sâ€™affrontent : GenÃ¨ve a choisi de dÃ©velopper son propre systÃ¨me. Il a publiÃ© le 19 aoÃ»t 2015 le code source du logiciel 
+de vote Ã©lectronique. Ceci permet un audit trÃ¨s large de la plateforme. Lucerne et BÃ¢le-Ville utilise la plateforme genevoise. NeuchÃ¢tel a choisi â€“ seul â€“ la voie inverse, 
+en sâ€™associant Ã  une entreprise privÃ©e (Scytl) pour dÃ©velopper son systÃ¨me, dont le code est fermÃ©.
 
-La société Scytl n’est pas basée en Suisse. Elle est un « leader mondial » autoproclamé des systèmes de votes électroniques basé en Espagne. Ces clients sont nombreux, 
-de l’Union Européenne à des Etats et Villes américaines. Les actionnaires de Scytl sont principalement des fonds de capital-risque. La société Scytl affirme que son logiciel 
-a été très largement audité par des experts internationaux. Les systèmes de sécurité de la firme sont largement protégés par des Brevets en mains privées.
+La sociÃ©tÃ© Scytl nâ€™est pas basÃ©e en Suisse. Elle est un Â« leader mondial Â» autoproclamÃ© des systÃ¨mes de votes Ã©lectroniques basÃ© en Espagne. Ces clients sont nombreux, 
+de lâ€™Union EuropÃ©enne Ã  des Etats et Villes amÃ©ricaines. Les actionnaires de Scytl sont principalement des fonds de capital-risque. La sociÃ©tÃ© Scytl affirme que son logiciel 
+a Ã©tÃ© trÃ¨s largement auditÃ© par des experts internationaux. Les systÃ¨mes de sÃ©curitÃ© de la firme sont largement protÃ©gÃ©s par des Brevets en mains privÃ©es.
 
-Le débat sur la philosophie des systèmes de vote électronique a récemment été porté au Parlement fédéral (Mo. 15.3492 déposée par Christophe Darbellay). La motion demande 
-que « le vote électronique repose sur une solution dont les droits de propriété intellectuelle appartiennent exclusivement à des instances publiques suisses ». Elle demande 
-également que le code source soit accessible. Dans sa réponse, le Conseil fédéral estime que la sécurité est importante, en particulier le principe de la vérifiabilité individuelle. 
-Il estime également que l’accès au code source est gage de sécurité, et de confiance des utilisateurs vis-à-vis du système. Finalement, il conclut qu’il « a par ailleurs l'intention 
-d'examiner de manière approfondie avec les cantons la question de l'accès au code source, en vue de conditionner l'autorisation des systèmes à cet accès lors de la prochaine révision 
-des bases légales. »
+Le dÃ©bat sur la philosophie des systÃ¨mes de vote Ã©lectronique a rÃ©cemment Ã©tÃ© portÃ© au Parlement fÃ©dÃ©ral (Mo. 15.3492 dÃ©posÃ©e par Christophe Darbellay). La motion demande 
+que Â« le vote Ã©lectronique repose sur une solution dont les droits de propriÃ©tÃ© intellectuelle appartiennent exclusivement Ã  des instances publiques suisses Â». Elle demande 
+Ã©galement que le code source soit accessible. Dans sa rÃ©ponse, le Conseil fÃ©dÃ©ral estime que la sÃ©curitÃ© est importante, en particulier le principe de la vÃ©rifiabilitÃ© individuelle. 
+Il estime Ã©galement que lâ€™accÃ¨s au code source est gage de sÃ©curitÃ©, et de confiance des utilisateurs vis-Ã -vis du systÃ¨me. Finalement, il conclut quâ€™il Â« a par ailleurs l'intention 
+d'examiner de maniÃ¨re approfondie avec les cantons la question de l'accÃ¨s au code source, en vue de conditionner l'autorisation des systÃ¨mes Ã  cet accÃ¨s lors de la prochaine rÃ©vision 
+des bases lÃ©gales. Â»
 
-Dans ce cadre, la voie choisie par le Canton de Neuchâtel pose un certain nombre de problèmes de viabilité et de questions :
-1. Quel serait la conséquence pour notre système de vote électronique de la faillite de l’entreprise informatique espagnole Scytl ?
-2. Quels sont les garanties d’indépendance de Scytl vis-à-vis de ses investisseurs ? Et en cas de rachat par un concurrent ?
-3. La société Scytl peut-elle envisager de publier le code source de son système ?
-4. Si ce n’est pas le cas, qu’adviendrait-il de la solution neuchâteloise si le Parlement fédéral acceptait la Mo. 15.3492 ou si le Conseil fédéral fixait à l’avenir la publication du code source ou la détention publique des brevets comme une obligation ?
+Dans ce cadre, la voie choisie par le Canton de NeuchÃ¢tel pose un certain nombre de problÃ¨mes de viabilitÃ© et de questions :
+1. Quel serait la consÃ©quence pour notre systÃ¨me de vote Ã©lectronique de la faillite de lâ€™entreprise informatique espagnole Scytl ?
+2. Quels sont les garanties dâ€™indÃ©pendance de Scytl vis-Ã -vis de ses investisseurs ? Et en cas de rachat par un concurrent ?
+3. La sociÃ©tÃ© Scytl peut-elle envisager de publier le code source de son systÃ¨me ?
+4. Si ce nâ€™est pas le cas, quâ€™adviendrait-il de la solution neuchÃ¢teloise si le Parlement fÃ©dÃ©ral acceptait la Mo. 15.3492 ou si le Conseil fÃ©dÃ©ral fixait Ã  lâ€™avenir la publication du code source ou la dÃ©tention publique des brevets comme une obligation ?
 
-Question subsidiaire. Le vote électronique repose aujourd’hui sur une base légale récente sur le plan juridique mais antique du point de vue informatique 
-(Décret sur l’introduction à titre expérimental des moyens électroniques… du 3 octobre 2001). Le titre même du décret donne l’impression d’une expérience alors que le vote 
-électronique est devenu une réalité concrète.
-1. Le Conseil d’Etat envisage-t-il de revoir la loi ou de l’intégrer dans celle sur les droits politiques lui donner un cadre juridique conforme à sa pérennité ?
+Question subsidiaire. Le vote Ã©lectronique repose aujourdâ€™hui sur une base lÃ©gale rÃ©cente sur le plan juridique mais antique du point de vue informatique 
+(DÃ©cret sur lâ€™introduction Ã  titre expÃ©rimental des moyens Ã©lectroniquesâ€¦ du 3 octobre 2001). Le titre mÃªme du dÃ©cret donne lâ€™impression dâ€™une expÃ©rience alors que le vote 
+Ã©lectronique est devenu une rÃ©alitÃ© concrÃ¨te.
+1. Le Conseil dâ€™Etat envisage-t-il de revoir la loi ou de lâ€™intÃ©grer dans celle sur les droits politiques lui donner un cadre juridique conforme Ã  sa pÃ©rennitÃ© ?
