@@ -41,3 +41,49 @@ Question subsidiaire. Le vote électronique repose aujourd’hui sur une base l�
 électronique est devenu une réalité concrète.
 
 1. Le Conseil d’Etat envisage-t-il de revoir la loi ou de l’intégrer dans celle sur les droits politiques lui donner un cadre juridique conforme à sa pérennité ?
+
+Et l'intervention au Grand Conseil :
+
+Le vote électronique est entré dans les habitudes démocratiques de nos concitoyennes et concitoyens. Contrairement à ce 
+que dit la Loi, on est depuis quelques temps déjà sorti de la phase « expérimentale ». Supprimer demain cette possibilité 
+et ce sont des milliers de personnes qui perdront une manière pratique de voter ou d'élire.
+
+Les systèmes qui le permettent rencontrent pourtant deux types de difficultés majeures :
+
+La sécurité absolue n'existe pas sur dans le monde informatique, en particulier à l'heure où tout est connecté. 
+Le Conseil d’État a donné quelques gages de sécurité face aux craintes légitimes sur la sécurité de la solution 
+neuchâteloise en réponse à une interpellation de Baptiste Hunckeler il y a deux ans. Je n'adhère pourtant pas au 
+discours rassurant du Conseil d’État qui estime que le système est totalement sécurisé, mais je ne reviendrai pas 
+précisément sur ce point ce matin.
+
+La deuxième difficulté est liée au fournisseur du service. En Suisse, trois systèmes coexistent : le système qu'on 
+appellera « suisse-allemand » (Consortium « Vote électronique ») qui a récemment pris une veste, se voyant refuser 
+les élections fédérales du 18 octobre. Le deuxième est le système genevois qui équipent les cantons de Genève, Lucerne, 
+Bâle-Ville et Berne. Le préposé valaisan à la protection des données a récemment annoncé que son canton opterait sans doute 
+également pour le système genevois. Finalement, Neuchâtel fait cavalier seul en ayant opté pour une solution étrangère : 
+celle de « e-democratie » offerte par la société espagnole Scytl. 
+
+A notre avis, c'est un premier problème : Neuchâtel, en faisant cavalier seul, prend un certain nombre de risques. Ceux-ci 
+sont explicités dans nos questions : et si la société fait faillite, et si celle-ci est rachetée ? Il faut rappeler qu'elle 
+est en main d'un certain nombre de sociétés de capital-risque (anglaise, espagnole et étasunienne), dont une dépend d'un 
+fondateur de… Microsoft. Or, pour celles-ci, il existe deux moyens de faire quelques bénéfices sur l'argent investi : faire 
+entrer en bourse l'entreprise – ou la vendre. Le risque ici est important : quelles sont les garanties d'indépendance 
+aujourd'hui et qui plus est en cas de vente de l'entreprise ?
+
+Entre le système genevois et le système neuchâtelois, il existe encore une différence de taille. Genève a choisi de publier 
+le code source de son système le 19 août 2015. Le système neuchâtelois est par contre fermé, opaque. Il a bien sûr été passé 
+a crible sécuritaire, mais les risques liés à un système fermé sont importants, quel que soient la qualité des développeurs. 
+Parce que c'est le secret entourant le code qui permet à Scytl de monnayer ses services, nous sommes persuadés que 
+l'entreprise ne publiera jamais le code source. Et reste encore la problématique des « backdoors » qui permettrait d'implanter 
+discrètement un système de surveillance du scrutin, malgré la protection « de bout en bout » vendue par Scytl. Sur ce point 
+encore, le fait que Scytl collabore avec le département américain de la défense n'est pas là pour nous rassurer.
+
+Et ceci pourrait encore poser un problème de viabilité à moyen terme de la solution neuchâteloise. En réponse à une motion 
+Christophe Darbellay, le Conseil fédéral a récemment indiqué qu'il pourrait à l'avenir demander la publication du code source 
+comme obligatoire pour pouvoir mettre en œuvre un vote électronique. Et la motion Darbellay va plus loin : elle demande que 
+les brevets soient en mains publiques et que le code source soit libre. Ceci sonnera la fin de la solution neuchâteloise.
+
+Encore un dernier point, sur lequel nous reviendrons sans doute suivant les réponses du Conseil d’État. Nous sommes étonnés 
+de voir la poste suisse de mêler de vote électronique. C'est une diversification de ces activités que nous ne comprenons pas. 
+Après les sucreries et les tribolos, la poste donc veut vendre à d'autres cantons la solution espagnole. Permettez-nous de 
+trouver cette situation incongrue.
