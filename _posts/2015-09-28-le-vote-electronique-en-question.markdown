@@ -44,7 +44,7 @@ Question subsidiaire. Le vote électronique repose aujourd’hui sur une base l�
 
 Et l'intervention au Grand Conseil :
 
-*Le vote électronique est entré dans les habitudes démocratiques de nos concitoyennes et concitoyens. Contrairement à ce 
+<i>Le vote électronique est entré dans les habitudes démocratiques de nos concitoyennes et concitoyens. Contrairement à ce 
 que dit la Loi, on est depuis quelques temps déjà sorti de la phase « expérimentale ». Supprimer demain cette possibilité 
 et ce sont des milliers de personnes qui perdront une manière pratique de voter ou d'élire.
 
@@ -86,4 +86,4 @@ les brevets soient en mains publiques et que le code source soit libre. Ceci son
 Encore un dernier point, sur lequel nous reviendrons sans doute suivant les réponses du Conseil d’État. Nous sommes étonnés 
 de voir la poste suisse de mêler de vote électronique. C'est une diversification de ces activités que nous ne comprenons pas. 
 Après les sucreries et les tribolos, la poste donc veut vendre à d'autres cantons la solution espagnole. Permettez-nous de 
-trouver cette situation incongrue.*
+trouver cette situation incongrue.</i>
