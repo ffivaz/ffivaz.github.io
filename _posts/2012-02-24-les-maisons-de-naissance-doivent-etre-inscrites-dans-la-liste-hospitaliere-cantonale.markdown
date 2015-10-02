@@ -9,7 +9,7 @@ sitemap:
   changefreq: 'daily'
 ---
 
-# Acte 1 - interpellation
+# Acte 1 - interpellation (24 janvier 2012)
 
 <strong>MISE A JOUR (fin mars 2012) : Suite aux réponses du Conseil d'Etat en février, j'ai déposé une <a href="/files/12.125.pdf">recommandation</a> pour tenter une fois de plus l'inscription... Elle est disponible plus bas.</strong>
 
@@ -34,7 +34,7 @@ Nous prions le Conseil d'Etat de répondre aux questions suivantes:
 4. Entend-il revenir sur sa décision de ne pas l'intégrer dans sa planification, immédiatement ou dans le futur (avant 2014)?
 
 
-# Acte 2 - recommandation
+# Acte 2 - recommandation (27 mars 2012)
 
 ### Inscription de la maison de naissance Tilia sur la liste hospitalière
 
