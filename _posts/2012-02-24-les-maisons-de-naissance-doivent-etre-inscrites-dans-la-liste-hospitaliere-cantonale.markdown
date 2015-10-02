@@ -35,12 +35,13 @@ Nous prions le Conseil d'Etat de répondre aux questions suivantes:
 
 
 # Acte 2 - recommandation
-## Inscription de la maison de naissance Tilia sur la liste hospitalière
+
+### Inscription de la maison de naissance Tilia sur la liste hospitalière
 
 Le Conseil d'Etat est prié d'inscrire la maison de naissance Tilia dans l'arrêté fixant la liste des
 hôpitaux neuchâtelois admis à pratiquer à charge de l'assurance obligatoire des soins.
 
-## Développement
+### Développement
 
 Les maisons de naissance sont des institutions gérées par des sages-femmes indépendantes et
 reconnues. Elles offrent un encadrement sûr pour un accouchement dans un cadre moins
