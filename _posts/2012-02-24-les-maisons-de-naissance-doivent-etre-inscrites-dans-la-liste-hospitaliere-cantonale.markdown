@@ -82,5 +82,5 @@ Nous demandons donc au Conseil d'Etat de reconsidérer sa décision et les crit�
 soutiennent, et d'inscrire le plus rapidement possible la maison de naissance Tilia sur la liste
 hospitalière cantonale.
 
-La recommandation n'a pas eu d'effet. Le rapport du Conseil d'Etat (<a href="http://www.ne.ch/autorites/GC/objets/Documents/Rapports/2012/12125_CE.pdf">12.125</a>) 
-en réponse n'a fait que confirmer la position initiale du Conseil d'Etat, malgré la forte mobilisation du Grand Conseil.
+<i>La recommandation n'a pas eu d'effet. Le rapport du Conseil d'Etat (<a href="http://www.ne.ch/autorites/GC/objets/Documents/Rapports/2012/12125_CE.pdf">12.125</a>) 
+en réponse n'a fait que confirmer la position initiale du Conseil d'Etat, malgré la forte mobilisation du Grand Conseil.</i>
