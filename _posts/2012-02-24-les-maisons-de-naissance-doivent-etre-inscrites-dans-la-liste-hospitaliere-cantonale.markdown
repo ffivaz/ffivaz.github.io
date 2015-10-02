@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les maisons de naissance doivent être inscrites dans la liste hospitalière cantonale
-summary: Une tragédie en deux actes. Qui se termine mal en 2012 (mais bien en 2015).
+summary: Une tragédie en deux actes. Qui se termine mal en 2012 (mise à jour - en 2015, le Conseil d'Etat a enfin accepté l'inscription pour le 1er janvier 2016).
 twitter : Les maisons de naissance doivent être inscrites dans la liste hospitalière cantonale
 sitemap:
   lastmod: 2012-02-24
