@@ -1,26 +1,15 @@
 ---
 layout: post
-title: Les maisons de naissance doivent être inscrites dans la liste hospitalière
-  cantonale
-date: 2012-02-24 12:17:07.000000000 +01:00
-categories:
-- Politique
-- Social
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '2'
-author:
-  login: ffivaz
-  email: info@fabienfivaz.ch
-  display_name: Fabien Fivaz
-  first_name: Fabien
-  last_name: Fivaz
+title: Les maisons de naissance doivent être inscrites dans la liste hospitalière cantonale
+summary: Les maisons de naissance doivent être inscrites dans la liste hospitalière cantonale
+twitter : Les maisons de naissance doivent être inscrites dans la liste hospitalière cantonale
+sitemap:
+  lastmod: 2012-02-24
+  priority: 0.7
+  changefreq: 'daily'
 ---
 
-#Acte 1 - interpellation
+# Acte 1 - interpellation
 
 <p><strong>MISE A JOUR (fin mars 2012) : Suite aux réponses du Conseil d'Etat en février, j'ai déposé une <a href="/files/12.125.pdf">recommandation</a> pour tenter une fois de plus l'inscription... Elle est disponible plus bas.</strong></p>
 <p><em>Interpellation du Conseil d'Etat du mois de janvier 2012. Texte original <a title="Interpellation maisons de naissance neuchâteloises" href="/files/12.104.pdf" target="_blank">disponible ici</a> et un <a title="Article dans l'Express" href="http://tilia-naissance.ch/wp-content/uploads/2014/03/Tilia-lExpress-2012-02-07.pdf" target="_blank"> article de presse</a>. La réponse de Gisèle Ory a été claire : le canton a fait comme "presque" tout le monde, à l'exception de tous les autres (Jura, Fribourg, Berne, ...). Dont acte. Reste que le Conseil d'Etat ne ferme pas la porte à l'inscription, rendez-vous donc fin mars!</em></p>
@@ -30,11 +19,11 @@ author:
 <p>Cette décision empêche la maison de naissance Tilia, et plus largement le concept même de maison de naissance, de se développer et le réserve aux personnes qui ont des moyens financiers. Ce n'est pourtant pas le cas partout. Dans le canton de Berne par exemple, la maison de naissance Luna à Bienne est inscrite dans la planification cantonale, les parents bénéficient donc de la gratuité complète de séjour et d'accouchement.</p>
 <p>Nous prions le Conseil d'Etat de répondre aux questions suivantes:</p>
 <ol>
-<li>Comment perçoit-il l'utilité d'une structure comme la maison de naissance Tilia?</li>
-<li>Comment entend-il favoriser ce genre de structure?</li>
-<li>Combien coûterait, à son avis, l'intégration de Tilia dans la planification cantonale?</li>
-<li>Entend-il revenir sur sa décision de ne pas l'intégrer dans sa planification, immédiatement ou dans le futur (avant 2014)?</li>
-</ol>
+Comment perçoit-il l'utilité d'une structure comme la maison de naissance Tilia?
+Comment entend-il favoriser ce genre de structure?
+Combien coûterait, à son avis, l'intégration de Tilia dans la planification cantonale?
+Entend-il revenir sur sa décision de ne pas l'intégrer dans sa planification, immédiatement ou dans le futur (avant 2014)?
+
 
 # Acte 2 - recommandation
 ## Inscription de la maison de naissance Tilia sur la liste hospitalière
