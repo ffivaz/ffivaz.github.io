@@ -14,14 +14,10 @@ Je suis né le 25 février 1978 à La Chaux-de-Fonds. Biologiste de formation, j
 scientifique pour le [Centre suisse de cartographie de la faune](http://www.cscf.ch "site du CSCF") à Neuchâtel –
 une fondation active dans la conservation de la biodiversité. Je suis père de deux enfants.
 
-<img src="/images/fabien_fivaz_nature.jpg" width="600" align="center">
-
 Je suis député au Grand Conseil neuchâtelois depuis 2009. Président de la Commission financière et président de la
 sous-commission en charge du Département du développement territorial et de l’environnement.
 Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds. En 2011, je suis arrivé deuxième de la liste des
 Verts au Conseil national, derrière Francine John Calame.
-
-<img src="/images/fabien_fivaz_maison.jpg" width="600" align="center">
 
 Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.tonsurton.ch) –
 un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds,
