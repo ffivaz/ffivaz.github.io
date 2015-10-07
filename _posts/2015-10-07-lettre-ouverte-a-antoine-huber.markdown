@@ -9,8 +9,6 @@ sitemap:
   changefreq: 'never'
 ---
 
-Lettre ouverte à Monsieur Antoine Hubert, membre du Conseil d'administration de GSMN, membre de la direction
-
 Cher Monsieur,
 
 Mon courrier fait suite à votre interview du jour dans la presse locale. J'ai d'abord pensé à vous faire parvenir 
