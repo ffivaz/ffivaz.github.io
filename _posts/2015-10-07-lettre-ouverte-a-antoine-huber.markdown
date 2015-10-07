@@ -11,7 +11,7 @@ sitemap:
 
 Cher Monsieur,
 
-Mon courrier fait suite à votre interview du jour dans la presse locale. J'ai d'abord pensé à vous faire parvenir 
+J'ai d'abord pensé à vous faire parvenir 
 un Code des obligations, mais nous sommes au 21ème siècle, vous le trouverez sans problème sur le net. Ce texte fédéral 
 de loi précise quelles sont les obligations et les responsabilités des acteurs en droit privé. Je vous recommande en 
 particulier la lecture des articles 356 à 358. Ils indiquent assez précisément comment fonctionne une convention 
