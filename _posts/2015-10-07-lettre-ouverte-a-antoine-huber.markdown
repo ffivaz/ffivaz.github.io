@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lettre ouverte à M. Antoine Hubert (GSMN)
-summary: Monsieur Hubert et membre du Conseil d'administration et de la direction de Genolier (GSMN). Mon courrier fait suite à son intervention dans la presse régionale du jour.
+summary: Monsieur Hubert est membre du Conseil d'administration et de la direction de Genolier (GSMN). Mon courrier fait suite à son intervention dans la presse régionale du jour.
 twitter: Lettre ouverte à M. Antoine Hubert (GSMN)
 sitemap:
   lastmod: 2015-10-07
