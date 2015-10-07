@@ -41,4 +41,5 @@ conventions, que je vous demande de respecter. Je me réjouis donc de voir le gr
 CCT Santé 21.
 
 Je vous prie de bien vouloir recevoir, Monsieur, mes meilleures salutations
+
 Fabien Fivaz
