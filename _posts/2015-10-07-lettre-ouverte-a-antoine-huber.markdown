@@ -37,7 +37,8 @@ Aucune convention n'est parfaite du point de vue des employés ou du point de vu
 où chacun doit faire des concessions. Et son application à long terme n'est pas toujours simple, les récents événements 
 neuchâtelois dans le domaine de la construction sont là pour le rappeler. Mais vous devez admettre que nous n'avons pas 
 trouvé mieux pour régler les relations entre employeurs et employés. Et ma foi oui, il a fallu fixer un cadre légal aux 
-conventions, que vous demande de respecter.
+conventions, que je vous demande de respecter. Je me réjouis donc de voir le groupe Génolier adhérer pleinement à la 
+CCT Santé 21.
 
 Je vous prie de bien vouloir recevoir, Monsieur, mes meilleures salutations
 Fabien Fivaz
