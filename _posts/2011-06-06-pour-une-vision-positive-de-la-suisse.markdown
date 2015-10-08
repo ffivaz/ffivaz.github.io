@@ -12,7 +12,7 @@ sitemap:
 Le projet politique de l’Union démocratique du centre (UDC) est celui du renfermement sur soi, de la fermeture au monde et du 
 refus du progrès. L’extrême-droite fait ainsi miroiter à ses électeurs un glorieux passé de traditions bien helvétiques dont 
 l’imagerie réduit national n’a en réalité jamais vraiment existé. Au-delà des clichés, l’UDC a surtout construit son discours 
-autour de la xénophobie et du racisme. En cela, le parti applique le principe décrit par Enzo Traverso de « *construction 
+autour de la xénophobie et du racisme. En cela, le parti applique le principe décrit par Enzo Traverso[^traverso] de « *construction 
 symbolique de l’ennemi – inventé en tant que figure négative – visant à satisfaire une quête identitaire, un désir 
 d’appartenance, un besoin de sécurité et de protection.* » Les mutations profondes et violentes qui bouleversent nos sociétés 
 depuis quelques décennies (mondialisation, globalisation économique, nouvelles technologies, etc.) ont permis d’ancrer ce 
@@ -60,3 +60,5 @@ traversent notre société doivent être accompagnées par une politique positiv
 clés pour comprendre et s’adapter. Ce n’est pas encore un programme politique, mais c’est un état d’esprit qu’il faut 
 cultiver pour barrer la route aux populistes qui sont aujourd’hui debout sur le frein et qui risquent bien de nous envoyer 
 dans le fossé.
+
+[^traverso]: Enzo Traverso. 2011. La fabrique de la haine : Xénophobie et racisme en Europe. Revue Contretemps n°9. [http://www.contretemps.eu/interventions/fabrique-haine-x%C3%A9nophobie-racisme-en-europe]. Reste également une incohérence de taille : l’UDC est un parti dont la politique économique est néolibérale et opposée à l’Etat providence – seul sans doute à pouvoir accompagner les profondes mutations sociales qu’impliquent par exemple la globalisation économique. 
