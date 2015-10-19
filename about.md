@@ -2,7 +2,7 @@
 layout: page
 title: Biographie
 alt: Biographie
-summary: Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois. Candidat des Verts au Conseil national et au Conseil des Etats. Président de StopOGM.
+summary: Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois. Président de StopOGM.
 permalink: /about/
 sitemap:
   lastmod: 2014-12-17
