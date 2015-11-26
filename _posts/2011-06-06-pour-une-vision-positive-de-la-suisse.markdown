@@ -4,7 +4,7 @@ title: Pour une vision positive de la Suisse du XXIème siècle
 summary: Un texte publié dans l'ouvrage de Rémy Cosandey "Le peuple des moutons" publié en septembre 2011 par les Editions G-d'encre 
 twitter: Pour une vision positive de la Suisse du XXIème siècle
 sitemap:
-  lastmod: 2011-06-06
+  lastmod: 2015-10-10
   priority: 0.7
   changefreq: 'never'
 ---
