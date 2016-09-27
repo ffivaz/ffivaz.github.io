@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Anéantissement chimique de prairies neuchâteloises: législation et la pratique
-summary: En avril / mai de cette année, un agriculteur des Montagnes neuchâteloises a littéralement brûlé une prairie/pâturage. L’agent utilisé est sans doute le glyphosate.
+summary: En avril de cette année, un agriculteur des Montagnes neuchâteloises a littéralement brûlé une prairie-pâturage. L’agent utilisé est sans doute le glyphosate.
 twitter: Glyphosatage des prairies neuchâteloises. Une question au GCNE.
 sitemap:
-  lastmod: 2015-11-03
+  lastmod: 2016-09-27
   priority: 0.7
   changefreq: 'never'
 ---
 
-En avril / mai de cette année, un agriculteur des Montagnes neuchâteloises a littéralement brûlé une prairie /
+En avril de cette année, un agriculteur des Montagnes neuchâteloises a littéralement brûlé une prairie /
 pâturage. L’agent utilisé est sans doute le glyphosate. Ce n’est pas la première fois, un champ voisin a été traité
 de la sorte il y a deux ou trois ans.
 
