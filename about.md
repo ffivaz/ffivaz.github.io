@@ -5,7 +5,7 @@ alt: Biographie
 summary: Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois. Président de StopOGM.
 permalink: /about/
 sitemap:
-  lastmod: 2014-12-17
+  lastmod: 2016-09-27
   priority: 1
   changefreq: 'monthly'
 ---
@@ -14,14 +14,13 @@ Je suis né le 25 février 1978 à La Chaux-de-Fonds. Biologiste de formation, j
 scientifique pour le [Centre suisse de cartographie de la faune](http://www.cscf.ch "site du CSCF") à Neuchâtel –
 une fondation active dans la conservation de la biodiversité. Je suis père de deux enfants.
 
-Je suis député au Grand Conseil neuchâtelois depuis 2009. Président de la Commission financière et président de la
+Je suis député au Grand Conseil neuchâtelois depuis 2009. Président de la Commission des finances et président de la
 sous-commission en charge du Département du développement territorial et de l’environnement.
 Entre 2005 et 2009, j’ai été Conseiller général à La Chaux-de-Fonds. En 2015, je suis arrivé premier de la liste des
 Verts au Conseil national. C'est toutefois Denis de la Reussille, du POP, qui a été élu.
 
-Je préside l’association [StopOGM](http://www.stopogm.ch), le Conseil de fondation de [Ton sur Ton](http://www.tonsurton.ch) –
-un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds,
-et l’[association Surface Solidaire](http://surfacesolidaire.ch), active dans la création de coopératives solaires.
+Je préside le Conseil de fondation de [Ton sur Ton](http://www.tonsurton.ch) –
+un centre des métiers des arts de la scène et du spectacle à La Chaux-de-Fonds.
 
 Consulter mon profil sur [linkedin](https://lnkd.in/d9499AE),
 le [registre des liens d'intérêts](http://www.ne.ch/autorites/GC/composition/Pages/Liste-liens-interets.aspx) du
