@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anéantissement chimique de prairies neuchâteloises: législation et la pratique
+title: Glyphosatage des prairies - question au Grand Conseil
 summary: En avril de cette année, un agriculteur des Montagnes neuchâteloises a littéralement brûlé une prairie-pâturage. L’agent utilisé est sans doute le glyphosate.
 twitter: Glyphosatage des prairies neuchâteloises. Une question au GCNE.
 sitemap:
