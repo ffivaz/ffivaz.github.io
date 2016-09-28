@@ -36,3 +36,9 @@ versement de paiements directs ?
 
 4. Des précautions sont-elles prises pour protéger la population et les animaux (interdiction momentanée de
 pâture, destruction de la première récolte, suivi du lessivage du glyphosate, etc.) ?
+
+*Réponse du Conseil d'Etat*
+
+Circulez, tout va bien. Selon la *science*, le glyphosate n'est pas dangereux (NDLR: selon l'EFSA, l'agence européenne en charge du domaine, dont la dépendance vis-à-vis des industriels de l'agrochimie n'est plus à démontrer). Le nettoyage chimique est "écologique", il permet d'économiser le carburant du tracteur qui laboure (NLDR: Et le glyphosate, c'est pas du pétrole?). Les rivières sont protégées par 6 mètres de zone tampon (NLDR: Le karst, ça te parle?).
+
+Allez, on va tous boire un verre de glyphosate à la santé du gouvernement.
