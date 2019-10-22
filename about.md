@@ -2,7 +2,7 @@
 layout: page
 title: Biographie
 alt: Biographie
-summary: Biologiste, homme politique écolo et de gauche. Député au Grand Conseil neuchâtelois.
+summary: Conseiller national écolo et de gauche. Biologiste. Neuchâtelois.
 permalink: /about/
 sitemap:
   lastmod: 2016-09-27
